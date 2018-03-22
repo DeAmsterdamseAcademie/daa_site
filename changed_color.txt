@@ -1,0 +1,5 @@
+navbar-brand
+
+#52d3aa -> red
+
+#3f95ea -> #ffe6e6
