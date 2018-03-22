@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>De Amsterdamse Academie</title>
-    <link>localhost:1313/</link>
-    <description>Recent content on De Amsterdamse Academie</description>
+    <title>Intros on De Amsterdamse Academie</title>
+    <link>localhost:1313/intro/</link>
+    <description>Recent content in Intros on De Amsterdamse Academie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 May 2016 12:12:12 -0500</lastBuildDate>
     
-	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost:1313/intro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>localhost:1313/intro/2016-05-10-oprichting/</guid>
       <description>Medezeggenschapsvereniging De Amsterdamse Academie De vereniging ‘De Amsterdamse Academie’ wil actief deelnemen aan ondernemingsraden van de UvA op een kritische en constructieve wijze. Zij wil hiermee een alternatief bieden voor de verkiezingslijsten die ontstaan zijn naar aanleiding van de Maagdenhuisbezetting van 2015 en de traditionele vakbondslijsten.
 De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goede bestuurders te vinden op elk niveau. De Amsterdamse Academie stelt zich daarom ook ten doel toekomstige academische bestuurders op te leiden.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>localhost:1313/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>localhost:1313/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

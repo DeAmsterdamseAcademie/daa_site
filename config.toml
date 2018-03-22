@@ -16,9 +16,9 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "DAA"
     home = "Home"
-    work = "Work"
+    work = "Faculteiten"
     testimonials = "Testimonials"
-    services = "Services"
+    services = "Visie"
     about = "About"
     contact = "Contact"
 
@@ -47,27 +47,27 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Oprichting"
+    description = "De Amsterdamse Academie is de eerste medezeggenschapsvereniging in Nederland."
     url = "#"
-    button = "Get In Touch"
+    button = "Meer weten"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Click Me"
-    icon = "icon-wrench"
+    title = "Werving"
+    description = "Word lid van de medezeggenschapsvereniging De Amsterdamse Academie."
+    url = "#contact"
+    button = "Aanmelden"
+    icon = "icon-heart"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Verkiezingen"
+    description = "Van maandag 16 tot en met vrijdag 20 april kan er worden gestemd op de DAA kandidaten."
     url = "#"
-    button = "Why us?"
-    icon = "icon-rocket"
+    button = "Kandidaten"
+    icon = "icon-people"
     img = "img_10.jpg"
 
   [params.intro.video]
@@ -80,45 +80,39 @@ theme = "hugo-elate-theme"
   # Work section
   [params.work]
     enable = true
-    title = "Work"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Faculteiten"
+    description = "De Amsterdamse Academie heeft kandidaten op de kieslijsten van de volgende faculteiten."
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
       img = "work_1.jpg"
       alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
+      title = "ACTA"
+      subtitle = "Academisch Centrum Tandheelkunde Amsterdam"
 
     [[params.work.row]]
       img = "work_2.jpg"
       alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
+      title = "FNWI"
+      subtitle = "Faculteit der Natuurwetenschappen, Wiskunde en Informatica"
 
     [[params.work.row]]
       img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
+      alt = ""
+      title = "FMG"
+      subtitle = "Faculteit Maatschappij en Gedragswetenschappen"
 
     [[params.work.row]]
       img = "work_4.jpg"
       alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
+      title = "FGW"
+      subtitle = "Faculteit der Geesteswetenschappen"
 
     [[params.work.row]]
       img = "work_5.jpg"
       alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
+      title = "GDE"
+      subtitle = "Bestuursstaf en Diensten"
 
   # Testimonials section
   [params.testimonials]
@@ -150,7 +144,7 @@ theme = "hugo-elate-theme"
   # Services section
   [params.services]
     enable = true
-    title = "Services"
+    title = "Visie"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.services.item]]
@@ -212,7 +206,67 @@ theme = "hugo-elate-theme"
         ["icon-twitter", "#"],
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
-      ]      
+      ]
+      
+          [[params.about.item]]
+      name = "Larry Ben"
+      position = "Web Designer"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      img = "person3.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]    
+      
+          [[params.about.item]]
+      name = "Larry Ben"
+      position = "Web Designer"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      img = "person3.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]    
+      
+          [[params.about.item]]
+      name = "Larry Ben"
+      position = "Web Designer"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      img = "person3.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]    
+      
+          [[params.about.item]]
+      name = "Larry Ben"
+      position = "Web Designer"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      img = "person3.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]    
+      
+          [[params.about.item]]
+      name = "Larry Ben"
+      position = "Web Designer"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      img = "person3.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]    
 
   # Counters section
   [params.counters]

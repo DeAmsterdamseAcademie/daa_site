@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>localhost:1313/intro/2016-05-10-oprichting/</loc>
+    <lastmod>2016-05-10T12:12:12-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>localhost:1313/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -14,7 +19,13 @@
   
   <url>
     <loc>localhost:1313/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2016-05-10T12:12:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost:1313/intro/</loc>
+    <lastmod>2016-05-10T12:12:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
