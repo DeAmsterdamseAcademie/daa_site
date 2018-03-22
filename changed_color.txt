@@ -1,5 +1,5 @@
-navbar-brand
+Changed all colors in: themes/hugo-elate-theme/static/css/style.css
 
-#52d3aa -> red
+#52d3aa -> red -> #BC0031
 
 #3f95ea -> #ffe6e6
