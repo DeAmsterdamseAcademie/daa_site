@@ -21,7 +21,7 @@ theme        = "hugo-elate-theme"
     work         = "Faculteiten"
     testimonials = "Testimonials"
     services     = "Visie"
-    about        = "About"
+    about        = "Bestuur"
     contact      = "Contact"
 
     # You can add custom links before or after the default links
@@ -120,11 +120,11 @@ theme        = "hugo-elate-theme"
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Redenen om je aan te sluiten bij De Amsterdamse Academie."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      quote = "&ldquo;We bundelen onze krachten. Bij de vorige verkiezingen bleek het zelf samenstellen van niet-vakbondslijsten erg ingewikkeld. De vereniging DAA heeft de know-how, en aansluiten bij de DAA heeft als voordeel dat je je alleen hoeft te concentreren op de kandidaten en het formuleren van een programma (binnen de kaders van de uitgangspunten van DAA).&rdquo;"
+      person = 'Gerwin van der Pol<span class="subtext">Voorzitter</span>'
       img = "person1.jpg"
       alt = "Person1"
 
@@ -152,34 +152,34 @@ theme        = "hugo-elate-theme"
     [[params.services.item]]
       title = "Onderwijs &amp; Onderzoek"
       description = "Idealiter is het grootste deel van de medewerkers van de UvA vooral bezig met onderzoek en onderwijs. Het bestuur is in handen van academici met veel ervaring in onderwijs en onderzoek, ondersteund door een efficiënte professionele staf. Het bestuur is vooral ondersteunend. Zij creëert de beste omstandigheden voor goed onderwijs en onderzoek, zoals goede voorzieningen en een eerlijk, transparant en stabiel verdelingsmodel voor de middelen. Zij schept een dynamisch academisch klimaat waarin onderwijsverbetering en onderzoeksontwikkeling vooral ‘bottom up’ plaatsvinden."
-      icon = "icon-anchor"
+      icon = "icon-book-open"
 
     [[params.services.item]]
       title = " Gezonde Universiteit"
       description = "De Amsterdamse Academie streeft naar een gezonde universiteit die in al haar disciplines tot de Europese top behoort, met een goede balans tussen eerste, tweede en derde geldstroom activiteiten en tussen onderwijs- en onderzoeksbelangen. De Amsterdamse Academie streeft ook naar een verstandig personeelsbeleid waarin de belangen van het vaste personeel, tijdelijk personeel en toekomstig personeel goed zijn afgewogen. De Amsterdamse Academie is niet voor grote veranderingen in de Wet op Universitair bestuur (WUB). We gaan uit van het huidige efficiënte besturingsmodel waarin we voldoende mogelijkheden zien voor een universitaire structuur waarin eenheden die goed onderwijs verzorgen, een goed onderzoeksprogramma kennen en voldoende 1e, 2e en/of 3e geldstroominkomsten verwerven, grotendeel zelfstandig over de inrichting van hun werkzaamheden kunnen beslissen."
-      icon = "icon-layers2"
+      icon = "icon-heart"
       
     [[params.services.item]]
       title = "Kwalitatief hoog academisch onderwijs"
       description = "De Amsterdamse Academie streeft naar hoog kwalitatief academisch onderwijs voor alle studenten in een actieve onderzoeksomgeving. We laten ons hierbij leiden door zo objectief mogelijke beschikbare criteria: Onderwijs- en onderzoeksvisitaties, succes in de verwerving van 2e en 3e geldstroom, vergelijking met resultaten in andere universiteiten, en verschillende monitoren van onderwijskwaliteit (NSE, UvA-Q). Dit geldt ook het personeelsbeleid. Belangrijk is de medewerkersmonitor om een beeld te krijgen van algemene tevredenheid van medewerkers. De Amsterdamse Academie is ook pragmatisch. We zullen lobbyen voor meer geld voor academisch onderzoek en onderwijs maar aanvaarden ook de uitkomsten van verdeelmodellen. Onderzoek en onderwijs zal moeten plaatsvinden binnen bepaalde financiële kaders."
-      icon = "icon-video2"
+      icon = "icon-like"
 
       [[params.services.item]]
       title = "Toekomstige Bestuurders"
       description = "De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goede bestuurders te vinden op elk niveau. De Amsterdamse Academie stelt zich daarom ook ten doel toekomstige academische bestuurders op te leiden. We verwachten dat deelname van talentvolle jonge academici aan de ondernemingsraden hierbij een grote rol kan spelen. Juist jonge onderzoekers/docenten waarvan de verwachting is dat ze over enige jaren door zullen groeien naar hogere academische rangen zouden in de ondernemingsraden ervaring met academisch bestuur op moeten doen. De Amsterdamse Academie wil daarom ook een rol spelen in de opleiding van de leden van de ondernemingsraden."      
-      icon = "icon-monitor"
+      icon = "icon-pencil"
 
   # About section
   [params.about]
     enable = true
-    title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Bestuur"
+    description = "Er is een bestuur nodig om de vereniging op de rit te krijgen en houden, maar de vereniging bestaat vooral voor en door de leden. Op het platform en tijdens de jaarlijkse Algemene Ledenvergadering hebben de leden inspraak."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person1.jpg"
+      name = "Gerwin van der Pol"
+      position = "voorzitter"
+      description = ""
+      img = "gerwin.jpg"
       alt = "Person1"
       social = [
         ["icon-twitter", "#"],
@@ -188,10 +188,10 @@ theme        = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
+      name = "Cees Kleverlaan"
+      position = "secretaris"
+      description = ""
+      img = "cees.jpg"
       alt = "Person2"
       social = [
         ["icon-twitter", "#"],
@@ -200,10 +200,10 @@ theme        = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
+      name = "Isabel Smallegange"
+      position = "penningmeester"
+      description = ""
+      img = "isabel.jpg"
       alt = "Person3"
       social = [
         ["icon-twitter", "#"],
@@ -212,10 +212,10 @@ theme        = "hugo-elate-theme"
       ]
       
           [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
+      name = "Annemie Ploeger"
+      position = "bestuurslid"
+      description = ""
+      img = "annemie.jpg"
       alt = "Person3"
       social = [
         ["icon-twitter", "#"],
@@ -224,10 +224,10 @@ theme        = "hugo-elate-theme"
       ]    
       
           [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
+      name = "Han van der Maas"
+      position = "bestuurslid"
+      description = ""
+      img = "han.jpg"
       alt = "Person3"
       social = [
         ["icon-twitter", "#"],
@@ -235,45 +235,11 @@ theme        = "hugo-elate-theme"
         ["icon-dribbble", "#"]
       ]    
       
-          [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]    
-      
-          [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]    
-      
-          [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]    
+  
 
   # Counters section
   [params.counters]
-    enable = true
+    enable = false
     title = "Stats"
     background = "full_image_1.jpg"
 
@@ -312,17 +278,17 @@ theme        = "hugo-elate-theme"
   # Contact section
   [params.contact]
     enable = true
-    map = true
+    map = false
     form = true
     title = "Get in touch"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-home", "Gustav Mahlerlaan 3004 – 11n69<br>1081 LA Amsterdam"],
+        # ["icon-phone", "(123) 465-6789"],
+        ["icon-envelope", "info@deamsterdamseacademie.nl"],
+        # ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
       ]
 
     name = "Name"
