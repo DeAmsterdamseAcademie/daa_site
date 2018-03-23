@@ -10,18 +10,19 @@ theme        = "hugo-elate-theme"
   custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = ""
+  author      = ""
   description = ""
-  email = ""
+  email       = ""
+
   # Navigation
   [params.navigation]
-    brand = "DAA"
-    home = "Home"
-    work = "Faculteiten"
+    brand        = "DAA"
+    home         = "Home"
+    work         = "Faculteiten"
     testimonials = "Testimonials"
-    services = "Visie"
-    about = "About"
-    contact = "Contact"
+    services     = "Visie"
+    about        = "About"
+    contact      = "Contact"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
@@ -40,7 +41,7 @@ theme        = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "De Amsterdamse Academie"
+    title    = "De Amsterdamse Academie"
     subtitle = 'Medezeggenschapsvereniging aan de Universiteit van Amsterdam'
  
   # Intro section
@@ -50,10 +51,10 @@ theme        = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Oprichting"
     description = "De Amsterdamse Academie is de eerste medezeggenschapsvereniging in Nederland."
-    url = "intro/oprichting/index.html"
-    button = "Meer weten"
-    icon = "icon-bulb"
-    img = "img_7.jpg"
+    url         = "intro/oprichting/index.html"
+    button      = "Meer weten"
+    icon        = "icon-bulb"
+    img         = "img_7.jpg"
 
   [[params.intro.item]]
     title = "Werving"
