@@ -67,10 +67,10 @@ theme        = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Verkiezingen"
     description = "Van maandag 16 tot en met vrijdag 20 april kan er worden gestemd op de DAA kandidaten."
-    url = "#"
-    button = "Kandidaten"
-    icon = "icon-people"
-    img = "img_10.jpg"
+    url         = "intro/kandidaten/index.html"
+    button      = "Kandidaten"
+    icon        = "icon-people"
+    img         = "img_10.jpg"
 
   [params.intro.video]
     enable = true
@@ -147,25 +147,26 @@ theme        = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Visie"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "De vereniging ‘de Amsterdamse Academie’ wil vertegenwoordigd worden in ondernemingsraden van de UvA vanuit een kritisch constructieve visie. Zij wil hiermee een alternatief bieden voor de lijsten die ontstaan zijn naar aanleiding van de Maagdenhuisbezetting van 2015 en de traditionele vakbondslijsten. In 2018 zullen nieuwe verkiezingen plaatsvinden. De Amsterdamse Academie wil in alle faculteiten aan deze verkiezingen deelnemen."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Onderwijs &amp; Onderzoek"
+      description = "Idealiter is het grootste deel van de medewerkers van de UvA vooral bezig met onderzoek en onderwijs. Het bestuur is in handen van academici met veel ervaring in onderwijs en onderzoek, ondersteund door een efficiënte professionele staf. Het bestuur is vooral ondersteunend. Zij creëert de beste omstandigheden voor goed onderwijs en onderzoek, zoals goede voorzieningen en een eerlijk, transparant en stabiel verdelingsmodel voor de middelen. Zij schept een dynamisch academisch klimaat waarin onderwijsverbetering en onderzoeksontwikkeling vooral ‘bottom up’ plaatsvinden."
       icon = "icon-anchor"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = " Gezonde Universiteit"
+      description = "De Amsterdamse Academie streeft naar een gezonde universiteit die in al haar disciplines tot de Europese top behoort, met een goede balans tussen eerste, tweede en derde geldstroom activiteiten en tussen onderwijs- en onderzoeksbelangen. De Amsterdamse Academie streeft ook naar een verstandig personeelsbeleid waarin de belangen van het vaste personeel, tijdelijk personeel en toekomstig personeel goed zijn afgewogen. De Amsterdamse Academie is niet voor grote veranderingen in de Wet op Universitair bestuur (WUB). We gaan uit van het huidige efficiënte besturingsmodel waarin we voldoende mogelijkheden zien voor een universitaire structuur waarin eenheden die goed onderwijs verzorgen, een goed onderzoeksprogramma kennen en voldoende 1e, 2e en/of 3e geldstroominkomsten verwerven, grotendeel zelfstandig over de inrichting van hun werkzaamheden kunnen beslissen."
       icon = "icon-layers2"
+      
     [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Kwalitatief hoog academisch onderwijs"
+      description = "De Amsterdamse Academie streeft naar hoog kwalitatief academisch onderwijs voor alle studenten in een actieve onderzoeksomgeving. We laten ons hierbij leiden door zo objectief mogelijke beschikbare criteria: Onderwijs- en onderzoeksvisitaties, succes in de verwerving van 2e en 3e geldstroom, vergelijking met resultaten in andere universiteiten, en verschillende monitoren van onderwijskwaliteit (NSE, UvA-Q). Dit geldt ook het personeelsbeleid. Belangrijk is de medewerkersmonitor om een beeld te krijgen van algemene tevredenheid van medewerkers. De Amsterdamse Academie is ook pragmatisch. We zullen lobbyen voor meer geld voor academisch onderzoek en onderwijs maar aanvaarden ook de uitkomsten van verdeelmodellen. Onderzoek en onderwijs zal moeten plaatsvinden binnen bepaalde financiële kaders."
       icon = "icon-video2"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      title = "Toekomstige Bestuurders"
+      description = "De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goede bestuurders te vinden op elk niveau. De Amsterdamse Academie stelt zich daarom ook ten doel toekomstige academische bestuurders op te leiden. We verwachten dat deelname van talentvolle jonge academici aan de ondernemingsraden hierbij een grote rol kan spelen. Juist jonge onderzoekers/docenten waarvan de verwachting is dat ze over enige jaren door zullen groeien naar hogere academische rangen zouden in de ondernemingsraden ervaring met academisch bestuur op moeten doen. De Amsterdamse Academie wil daarom ook een rol spelen in de opleiding van de leden van de ondernemingsraden."      
       icon = "icon-monitor"
 
   # About section
