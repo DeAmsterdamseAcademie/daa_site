@@ -1,8 +1,9 @@
 # Page settings
-baseurl = "localhost:1313"
-title = "De Amsterdamse Academie"
+baseurl      = ""
+relativeURLs = true
+title        = "De Amsterdamse Academie"
 languageCode = "en-us"
-theme = "hugo-elate-theme"
+theme        = "hugo-elate-theme"
 
 [params]
   
@@ -49,7 +50,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Oprichting"
     description = "De Amsterdamse Academie is de eerste medezeggenschapsvereniging in Nederland."
-    url = "#"
+    url = "intro/oprichting/index.html"
     button = "Meer weten"
     icon = "icon-bulb"
     img = "img_7.jpg"
