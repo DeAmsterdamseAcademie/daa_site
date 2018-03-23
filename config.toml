@@ -1,6 +1,6 @@
 # Page settings
 baseurl      = "https://shklinkenberg.github.io/"
-relativeURLs = false
+relativeURLs = true
 title        = "De Amsterdamse Academie"
 languageCode = "en-us"
 theme        = "hugo-elate-theme"
