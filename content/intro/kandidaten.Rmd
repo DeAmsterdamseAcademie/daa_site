@@ -8,10 +8,32 @@ subsection : kandidaten
 
 # Kandidaten
 
+De volgende kandidaten heben zich namens De Amsterdamse Academie verkiesbaar gesteld.
+
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: left;
+}
+
+</style>
+
+<div class="grid-container">
+  <div class="grid-item">
+  
 ## Bestuursstaf en Diensten
 
 *  Irene Kraal
-
+  
+  </div>
+  <div class="grid-item">
+  
 ## FNWI
 
 * Isabel Smallegange
@@ -21,12 +43,18 @@ subsection : kandidaten
 * Robert Spreeuw
 * Patrick Decowski
 * Theo Nieuwenhuizen
-
+  
+  </div>
+  <div class="grid-item">
+  
 ## FMG 
 
 * Robert Zwitser
 * Sharon Klinkenberg
 
+  </div>  
+  <div class="grid-item">
+  
 ## FGw
 
 * Gerwin van der Pol
@@ -34,8 +62,25 @@ subsection : kandidaten
 * Fouad Laroui
 * Joannes Maessen
 * Jonneke Bekkenkamp
-
+  
+    </div>
+  <div class="grid-item">
+  
 ## ACTA
 
 * Cees Kleverlaan
 * Marian Sluijs
+  
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+

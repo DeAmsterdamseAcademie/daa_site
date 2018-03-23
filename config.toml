@@ -57,12 +57,12 @@ theme        = "hugo-elate-theme"
     img         = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Werving"
+    title       = "Werving"
     description = "Word lid van de medezeggenschapsvereniging De Amsterdamse Academie."
-    url = "#contact"
-    button = "Aanmelden"
-    icon = "icon-heart"
-    img = "img_8.jpg"
+    url         = "intro/werving/index.html"
+    button      = "Waarom DAA"
+    icon        = "icon-heart"
+    img         = "img_8.jpg"
 
   [[params.intro.item]]
     title = "Verkiezingen"
