@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>De Amsterdamse Academie</title>
-    <link>https://shklinkenberg.github.io/</link>
+    <link>https://shklinkenberg.github.io/daa_site/public/</link>
     <description>Recent content on De Amsterdamse Academie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 May 2016 12:12:12 -0500</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/daa_site/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Oprichting</title>
-      <link>https://shklinkenberg.github.io/intro/oprichting/</link>
+      <link>https://shklinkenberg.github.io/daa_site/public/intro/oprichting/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/intro/oprichting/</guid>
+      <guid>https://shklinkenberg.github.io/daa_site/public/intro/oprichting/</guid>
       <description>Medezeggenschapsvereniging De Amsterdamse Academie De vereniging ‘De Amsterdamse Academie’ wil actief deelnemen aan ondernemingsraden van de UvA op een kritische en constructieve wijze. Zij wil hiermee een alternatief bieden voor de verkiezingslijsten die ontstaan zijn naar aanleiding van de Maagdenhuisbezetting van 2015 en de traditionele vakbondslijsten.
 De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goede bestuurders te vinden op elk niveau. De Amsterdamse Academie stelt zich daarom ook ten doel toekomstige academische bestuurders op te leiden.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://shklinkenberg.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://shklinkenberg.github.io/daa_site/public/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://shklinkenberg.github.io/daa_site/public/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intros on De Amsterdamse Academie</title>
-    <link>https://shklinkenberg.github.io/intro/</link>
+    <link>https://shklinkenberg.github.io/daa_site/public/intro/</link>
     <description>Recent content in Intros on De Amsterdamse Academie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 May 2016 12:12:12 -0500</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/intro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/daa_site/public/intro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Oprichting</title>
-      <link>https://shklinkenberg.github.io/intro/oprichting/</link>
+      <link>https://shklinkenberg.github.io/daa_site/public/intro/oprichting/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/intro/oprichting/</guid>
+      <guid>https://shklinkenberg.github.io/daa_site/public/intro/oprichting/</guid>
       <description>Medezeggenschapsvereniging De Amsterdamse Academie De vereniging ‘De Amsterdamse Academie’ wil actief deelnemen aan ondernemingsraden van de UvA op een kritische en constructieve wijze. Zij wil hiermee een alternatief bieden voor de verkiezingslijsten die ontstaan zijn naar aanleiding van de Maagdenhuisbezetting van 2015 en de traditionele vakbondslijsten.
 De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goede bestuurders te vinden op elk niveau. De Amsterdamse Academie stelt zich daarom ook ten doel toekomstige academische bestuurders op te leiden.</description>
     </item>

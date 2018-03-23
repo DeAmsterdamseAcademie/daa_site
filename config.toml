@@ -1,5 +1,5 @@
 # Page settings
-baseurl      = "https://shklinkenberg.github.io/"
+baseurl      = "https://shklinkenberg.github.io/daa_site/public/"
 relativeURLs = true
 title        = "De Amsterdamse Academie"
 languageCode = "en-us"
