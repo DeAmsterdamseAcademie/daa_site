@@ -65,7 +65,7 @@ theme        = "hugo-elate-theme"
     img         = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Verkiezingen"
+    title = "Verkiezing"
     description = "Van maandag 16 tot en met vrijdag 20 april kan er worden gestemd op de DAA kandidaten."
     url         = "intro/kandidaten/index.html"
     button      = "Kandidaten"
@@ -73,7 +73,7 @@ theme        = "hugo-elate-theme"
     img         = "img_10.jpg"
 
   [params.intro.video]
-    enable = true
+    enable = false
     title = "Watch the video"
     icon = "icon-play2"
     url = "https://vimeo.com/channels/staffpicks/93951774"
@@ -84,7 +84,7 @@ theme        = "hugo-elate-theme"
     enable = true
     title = "Faculteiten"
     description = "De Amsterdamse Academie heeft kandidaten op de kieslijsten van de volgende faculteiten."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+    footertext = ''
 
     [[params.work.row]]
       img = "work_1.jpg"
@@ -96,7 +96,7 @@ theme        = "hugo-elate-theme"
       img = "work_2.jpg"
       alt = "Image2"
       title = "FNWI"
-      subtitle = "Faculteit der Natuurwetenschappen, Wiskunde en Informatica"
+      subtitle = "Binnen de FNWI wil de lijst De Amsterdamse Academie zich inzetten voor sterk bèta onderzoek en onderwijs in Amsterdam. Hierbij is een overkoepelend universiteitsschap binnen Amsterdam in ieders belang. Wij ondersteunen daarom bestaande en nieuwe initiatieven tot samenwerking tussen UvA en VU die bijdragen aan zowel de positie als de kwaliteit van de bètawetenschap in Amsterdam. De Amsterdamse Academie vindt het hierbij ook erg belangrijk om goede banden te onderhouden met studenten en hun organisaties om een zelfde constructief-kritische houding te stimuleren. De Amsterdamse Academie zet zich op deze manier ook in om het belang van kritisch medezeggenschap duidelijk te maken en hoopt daarmee de medewerkers en studenten aan de UvA te bereiken."
 
     [[params.work.row]]
       img = "work_3.jpg"
