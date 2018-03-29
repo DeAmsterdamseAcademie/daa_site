@@ -125,14 +125,14 @@ theme        = "hugo-elate-theme"
     [[params.testimonials.item]]
       quote = "&ldquo;We bundelen onze krachten. Bij de vorige verkiezingen bleek het zelf samenstellen van niet-vakbondslijsten erg ingewikkeld. De vereniging DAA heeft de know-how, en aansluiten bij de DAA heeft als voordeel dat je je alleen hoeft te concentreren op de kandidaten en het formuleren van een programma (binnen de kaders van de uitgangspunten van DAA).&rdquo;"
       person = 'Gerwin van der Pol<span class="subtext">Voorzitter</span>'
-      img = "person1.jpg"
-      alt = "Person1"
+      img = "gerwin.jpg"
+      alt = "Gerwin"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
-      alt = "Person2"
+      quote = "&ldquo;Ik heb niet zo veel met de vakbonden, maar wil me wel graag verenigen in het streven naar een gezonde universiteit met een constrictief kritische medenzeggenschap.&rdquo;"
+      person = 'Sharon Klinkenberg <a href="https://www.linkedin.com/in/sharonklinkenberg/" target="_blank"><i class="icon-linkedin"></i></a><span class="subtext">Kandidaat FMG</span>'
+      img = "sharon.jpg"
+      alt = "Sharon"
 
     [[params.testimonials.item]]
       quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
