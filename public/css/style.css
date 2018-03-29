@@ -370,7 +370,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #fh5co-home {
   background-color: transparent;
-  background-size: cover;
+  background-size: 100%;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   position: relative;
   width: 100%;
@@ -386,7 +387,6 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   z-index: 2;
   opacity: .6;
-  background-size:cover;
   -webkit-backface-visibility: hidden;
   background-color: #BC0031;
   /* IE9, iOS 3.2+ */
