@@ -1,26 +1,28 @@
 # Page settings
-baseurl = "localhost:1313"
-title = "De Amsterdamse Academie"
+baseurl      = "https://shklinkenberg.github.io/daa_site/public/"
+relativeURLs = true
+title        = "De Amsterdamse Academie"
 languageCode = "en-us"
-theme = "hugo-elate-theme"
+theme        = "hugo-elate-theme"
 
 [params]
   
   custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = ""
+  author      = ""
   description = ""
-  email = ""
+  email       = "info@deamsterdamseacademie.nl"
+
   # Navigation
   [params.navigation]
-    brand = "DAA"
-    home = "Home"
-    work = "Work"
+    brand        = "DAA"
+    home         = "Home"
+    work         = "Faculteiten"
     testimonials = "Testimonials"
-    services = "Services"
-    about = "About"
-    contact = "Contact"
+    services     = "Visie"
+    about        = "Bestuur"
+    contact      = "Contact"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
@@ -39,7 +41,7 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "De Amsterdamse Academie"
+    title    = "De Amsterdamse Academie"
     subtitle = 'Medezeggenschapsvereniging aan de Universiteit van Amsterdam'
  
   # Intro section
@@ -47,31 +49,31 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Get In Touch"
-    icon = "icon-bulb"
-    img = "img_7.jpg"
+    title = "Oprichting"
+    description = "De Amsterdamse Academie is de eerste medezeggenschapsvereniging in Nederland."
+    url         = "intro/oprichting/index.html"
+    button      = "Meer weten"
+    icon        = "icon-bulb"
+    img         = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Click Me"
-    icon = "icon-wrench"
-    img = "img_8.jpg"
+    title       = "Werving"
+    description = "Word lid van de medezeggenschapsvereniging De Amsterdamse Academie."
+    url         = "intro/werving/index.html"
+    button      = "Waarom DAA"
+    icon        = "icon-heart"
+    img         = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Why us?"
-    icon = "icon-rocket"
-    img = "img_10.jpg"
+    title = "Verkiezing"
+    description = "Van maandag 16 tot en met vrijdag 20 april kan er worden gestemd op de DAA kandidaten."
+    url         = "intro/kandidaten/index.html"
+    button      = "Kandidaten"
+    icon        = "icon-people"
+    img         = "img_10.jpg"
 
   [params.intro.video]
-    enable = true
+    enable = false
     title = "Watch the video"
     icon = "icon-play2"
     url = "https://vimeo.com/channels/staffpicks/93951774"
@@ -80,109 +82,104 @@ theme = "hugo-elate-theme"
   # Work section
   [params.work]
     enable = true
-    title = "Work"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+    title = "Faculteiten"
+    description = "De Amsterdamse Academie heeft kandidaten op de kieslijsten van de volgende faculteiten."
+    footertext = ''
 
     [[params.work.row]]
       img = "work_1.jpg"
       alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
+      title = "ACTA"
+      subtitle = "Academisch Centrum Tandheelkunde Amsterdam"
 
     [[params.work.row]]
       img = "work_2.jpg"
       alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
+      title = "FNWI"
+      subtitle = "Binnen de FNWI wil de lijst De Amsterdamse Academie zich inzetten voor sterk bèta onderzoek en onderwijs in Amsterdam. Hierbij is een overkoepelend universiteitsschap binnen Amsterdam in ieders belang. Wij ondersteunen daarom bestaande en nieuwe initiatieven tot samenwerking tussen UvA en VU die bijdragen aan zowel de positie als de kwaliteit van de bètawetenschap in Amsterdam. De Amsterdamse Academie vindt het hierbij ook erg belangrijk om goede banden te onderhouden met studenten en hun organisaties om een zelfde constructief-kritische houding te stimuleren. De Amsterdamse Academie zet zich op deze manier ook in om het belang van kritisch medezeggenschap duidelijk te maken en hoopt daarmee de medewerkers en studenten aan de UvA te bereiken."
 
     [[params.work.row]]
       img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
+      alt = ""
+      title = "FMG"
+      subtitle = "Faculteit Maatschappij en Gedragswetenschappen"
 
     [[params.work.row]]
       img = "work_4.jpg"
       alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
+      title = "FGW"
+      subtitle = "Faculteit der Geesteswetenschappen"
 
     [[params.work.row]]
       img = "work_5.jpg"
       alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
+      title = "GDE"
+      subtitle = "Bestuursstaf en Diensten"
 
   # Testimonials section
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Redenen om je aan te sluiten bij De Amsterdamse Academie."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person1.jpg"
-      alt = "Person1"
+      quote = "&ldquo;We bundelen onze krachten. Bij de vorige verkiezingen bleek het zelf samenstellen van niet-vakbondslijsten erg ingewikkeld. De vereniging DAA heeft de know-how, en aansluiten bij de DAA heeft als voordeel dat je je alleen hoeft te concentreren op de kandidaten en het formuleren van een programma (binnen de kaders van de uitgangspunten van DAA).&rdquo;"
+      person = 'Gerwin van der Pol<span class="subtext">Voorzitter</span>'
+      img = "gerwin.jpg"
+      alt = "Gerwin"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
-      alt = "Person2"
+      quote = "&ldquo;Ik heb niet zo veel met de vakbonden, maar wil me wel graag verenigen in het streven naar een gezonde universiteit met een constrictief kritische medenzeggenschap.&rdquo;"
+      person = 'Sharon Klinkenberg <a href="https://www.linkedin.com/in/sharonklinkenberg/" target="_blank"><i class="icon-linkedin"></i></a><span class="subtext">Kandidaat FMG</span>'
+      img = "sharon.jpg"
+      alt = "Sharon"
 
-    [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person3.jpg"
-      alt = "Person3"
-    
+#    [[params.testimonials.item]]
+#      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
+#      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+#      img = "person3.jpg"
+#      alt = "Person3"
+  
 
 
 
   # Services section
   [params.services]
     enable = true
-    title = "Services"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Visie"
+    description = "De vereniging ‘de Amsterdamse Academie’ wil vertegenwoordigd worden in ondernemingsraden van de UvA vanuit een kritisch constructieve visie. Zij wil hiermee een alternatief bieden voor de lijsten die ontstaan zijn naar aanleiding van de Maagdenhuisbezetting van 2015 en de traditionele vakbondslijsten. In 2018 zullen nieuwe verkiezingen plaatsvinden. De Amsterdamse Academie wil in alle faculteiten aan deze verkiezingen deelnemen."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-anchor"
+      title = "Onderwijs &amp; Onderzoek"
+      description = "Idealiter is het grootste deel van de medewerkers van de UvA vooral bezig met onderzoek en onderwijs. Het bestuur is in handen van academici met veel ervaring in onderwijs en onderzoek, ondersteund door een efficiënte professionele staf. Het bestuur is vooral ondersteunend. Zij creëert de beste omstandigheden voor goed onderwijs en onderzoek, zoals goede voorzieningen en een eerlijk, transparant en stabiel verdelingsmodel voor de middelen. Zij schept een dynamisch academisch klimaat waarin onderwijsverbetering en onderzoeksontwikkeling vooral ‘bottom up’ plaatsvinden."
+      icon = "icon-book-open"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-layers2"
+      title = " Gezonde Universiteit"
+      description = "De Amsterdamse Academie streeft naar een gezonde universiteit die in al haar disciplines tot de Europese top behoort, met een goede balans tussen eerste, tweede en derde geldstroom activiteiten en tussen onderwijs- en onderzoeksbelangen. De Amsterdamse Academie streeft ook naar een verstandig personeelsbeleid waarin de belangen van het vaste personeel, tijdelijk personeel en toekomstig personeel goed zijn afgewogen. De Amsterdamse Academie is niet voor grote veranderingen in de Wet op Universitair bestuur (WUB). We gaan uit van het huidige efficiënte besturingsmodel waarin we voldoende mogelijkheden zien voor een universitaire structuur waarin eenheden die goed onderwijs verzorgen, een goed onderzoeksprogramma kennen en voldoende 1e, 2e en/of 3e geldstroominkomsten verwerven, grotendeel zelfstandig over de inrichting van hun werkzaamheden kunnen beslissen."
+      icon = "icon-heart"
+      
     [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
+      title = "Kwalitatief hoog academisch onderwijs"
+      description = "De Amsterdamse Academie streeft naar hoog kwalitatief academisch onderwijs voor alle studenten in een actieve onderzoeksomgeving. We laten ons hierbij leiden door zo objectief mogelijke beschikbare criteria: Onderwijs- en onderzoeksvisitaties, succes in de verwerving van 2e en 3e geldstroom, vergelijking met resultaten in andere universiteiten, en verschillende monitoren van onderwijskwaliteit (NSE, UvA-Q). Dit geldt ook het personeelsbeleid. Belangrijk is de medewerkersmonitor om een beeld te krijgen van algemene tevredenheid van medewerkers. De Amsterdamse Academie is ook pragmatisch. We zullen lobbyen voor meer geld voor academisch onderzoek en onderwijs maar aanvaarden ook de uitkomsten van verdeelmodellen. Onderzoek en onderwijs zal moeten plaatsvinden binnen bepaalde financiële kaders."
+      icon = "icon-like"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
-      icon = "icon-monitor"
+      title = "Toekomstige Bestuurders"
+      description = "De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goede bestuurders te vinden op elk niveau. De Amsterdamse Academie stelt zich daarom ook ten doel toekomstige academische bestuurders op te leiden. We verwachten dat deelname van talentvolle jonge academici aan de ondernemingsraden hierbij een grote rol kan spelen. Juist jonge onderzoekers/docenten waarvan de verwachting is dat ze over enige jaren door zullen groeien naar hogere academische rangen zouden in de ondernemingsraden ervaring met academisch bestuur op moeten doen. De Amsterdamse Academie wil daarom ook een rol spelen in de opleiding van de leden van de ondernemingsraden."      
+      icon = "icon-pencil"
 
   # About section
   [params.about]
     enable = true
-    title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Bestuur"
+    description = "Er is een bestuur nodig om de vereniging op de rit te krijgen en houden, maar de vereniging bestaat vooral voor en door de leden. Op het platform en tijdens de jaarlijkse Algemene Ledenvergadering hebben de leden inspraak."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person1.jpg"
+      name = "Gerwin van der Pol"
+      position = "voorzitter"
+      description = ""
+      img = "gerwin.jpg"
       alt = "Person1"
       social = [
         ["icon-twitter", "#"],
@@ -191,10 +188,10 @@ theme = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
+      name = "Cees Kleverlaan"
+      position = "secretaris"
+      description = ""
+      img = "cees.jpg"
       alt = "Person2"
       social = [
         ["icon-twitter", "#"],
@@ -203,20 +200,46 @@ theme = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
+      name = "Isabel Smallegange"
+      position = "penningmeester"
+      description = ""
+      img = "isabel.jpg"
       alt = "Person3"
       social = [
         ["icon-twitter", "#"],
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
-      ]      
+      ]
+      
+          [[params.about.item]]
+      name = "Annemie Ploeger"
+      position = "bestuurslid"
+      description = ""
+      img = "annemie.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]    
+      
+          [[params.about.item]]
+      name = "Han van der Maas"
+      position = "bestuurslid"
+      description = ""
+      img = "han.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]    
+      
+  
 
   # Counters section
   [params.counters]
-    enable = true
+    enable = false
     title = "Stats"
     background = "full_image_1.jpg"
 
@@ -254,18 +277,18 @@ theme = "hugo-elate-theme"
 
   # Contact section
   [params.contact]
-    enable = true
-    map = true
-    form = true
-    title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    enable      = true
+    map         = false
+    form        = false
+    title       = "Laat van je horen"
+    description = "Heb je vragen opmerkingen of suggesties, laat het ons dan gerust weten."
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-home", "Gustav Mahlerlaan 3004 – 11n69<br>1081 LA Amsterdam"],
+        # ["icon-phone", "(123) 465-6789"],
+        ["icon-envelope", "<a href='mailto:info@deamsterdamseacademie.nl'>info@deamsterdamseacademie.nl</a>"],
+        # ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
       ]
 
     name = "Name"
