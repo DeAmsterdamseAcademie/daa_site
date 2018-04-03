@@ -91,31 +91,31 @@ publishDir   = "docs"
       img = "work_1.jpg"
       alt = "Image2"
       title = "ACTA"
-      subtitle = "Academisch Centrum Tandheelkunde Amsterdam"
+      subtitle = "Speerpunten"
 
     [[params.work.row]]
       img = "work_2.jpg"
       alt = "Image2"
       title = "FNWI"
-      subtitle = "Binnen de FNWI wil de lijst De Amsterdamse Academie zich inzetten voor sterk bèta onderzoek en onderwijs in Amsterdam. Hierbij is een overkoepelend universiteitsschap binnen Amsterdam in ieders belang. Wij ondersteunen daarom bestaande en nieuwe initiatieven tot samenwerking tussen UvA en VU die bijdragen aan zowel de positie als de kwaliteit van de bètawetenschap in Amsterdam. De Amsterdamse Academie vindt het hierbij ook erg belangrijk om goede banden te onderhouden met studenten en hun organisaties om een zelfde constructief-kritische houding te stimuleren. De Amsterdamse Academie zet zich op deze manier ook in om het belang van kritisch medezeggenschap duidelijk te maken en hoopt daarmee de medewerkers en studenten aan de UvA te bereiken."
+      subtitle = "Speerpunten"
 
     [[params.work.row]]
       img = "work_3.jpg"
       alt = ""
       title = "FMG"
-      subtitle = "Faculteit Maatschappij en Gedragswetenschappen"
+      subtitle = "Speerpunten"
 
     [[params.work.row]]
       img = "work_4.jpg"
       alt = "Image4"
       title = "FGW"
-      subtitle = "Binnen de FGw willen wij de nadruk leggen op de menselijke maat. De papieren werkelijkheid van beleidsdocumenten spoort vaak niet met de ervaring van individuele medewerkers. Onze faculteit staat op alle terreinen onder druk: werkdruk, regeldruk, machtsongelijkheid en demonisering van afwijkende standpunten. Tegelijkertijd is de kracht van onze faculteit de tomeloze energie van medewerkers, collegialiteit en kritische dialoog, geloof in de waarde van de Geesteswetenschappen en openheid naar de samenleving.Als leden van de Amsterdamse Academie pleiten wij: voor een eerlijke verhouding tussen werklast en inkomen voor alle medewerkers, voor meer diversiteit en  kansengelijkheid  in het facultaire personeelsbeleid, voor samenwerking en tegen polarisatie, voor eerlijke en realistische kansen voor onze jongste generatie medewerkers. Een stem op ons is een stem op de relatief meest diverse lijst. Wij willen bouwen aan een faculteit die vertrouwt op de kracht en expertise van iedereen, vaste en tijdelijke medewerkers, promovendi en buitenpromovendi. Een faculteit die ons allemaal de vrijheid en rust biedt om te floreren."
+      subtitle = "Speerpunten"
 
     [[params.work.row]]
       img = "work_5.jpg"
       alt = "Image5"
       title = "GDE"
-      subtitle = "Bestuursstaf en Diensten"
+      subtitle = "Speerpunten"
 
   # Testimonials section
   [params.testimonials]
