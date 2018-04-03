@@ -4,6 +4,7 @@ relativeURLs = true
 title        = "De Amsterdamse Academie"
 languageCode = "en-us"
 theme        = "hugo-elate-theme"
+publishDir   = "docs"
 
 [params]
   

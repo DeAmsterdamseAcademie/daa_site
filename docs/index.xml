@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>De Amsterdamse Academie</title>
+    <link>https://shklinkenberg.github.io/daa_site/public/</link>
+    <description>Recent content on De Amsterdamse Academie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 May 2016 12:12:12 -0500</lastBuildDate>
+    
+	<atom:link href="https://shklinkenberg.github.io/daa_site/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kandidaten</title>
+      <link>https://shklinkenberg.github.io/daa_site/public/intro/kandidaten/</link>
+      <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
+      
+      <guid>https://shklinkenberg.github.io/daa_site/public/intro/kandidaten/</guid>
+      <description>Kandidaten De volgende kandidaten heben zich namens De Amsterdamse Academie verkiesbaar gesteld.
+ .grid-container { display: grid; grid-template-columns: auto auto auto; padding: 10px; } .grid-item { padding: 20px; font-size: 30px; text-align: left; }  Bestuursstaf en Diensten  Irene Kraal   FNWI  Isabel Smallegange Rudy Wijnands Leendert Hamoen Garry Corthals Robert Spreeuw Patrick Decowski Theo Nieuwenhuizen   FMG  Robert Zwitser Sharon Klinkenberg   FGw  Gerwin van der Pol Janneke Schoo Fouad Laroui Joannes Maessen Jonneke Bekkenkamp</description>
+    </item>
+    
+    <item>
+      <title>Oprichting</title>
+      <link>https://shklinkenberg.github.io/daa_site/public/intro/oprichting/</link>
+      <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
+      
+      <guid>https://shklinkenberg.github.io/daa_site/public/intro/oprichting/</guid>
+      <description>Medezeggenschapsvereniging De Amsterdamse Academie De vereniging ‘De Amsterdamse Academie’ wil actief deelnemen aan ondernemingsraden van de UvA op een kritische en constructieve wijze. Zij wil hiermee een alternatief bieden voor de verkiezingslijsten die ontstaan zijn naar aanleiding van de Maagdenhuisbezetting van 2015 en de traditionele vakbondslijsten.
+De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goede bestuurders te vinden op elk niveau. De Amsterdamse Academie stelt zich daarom ook ten doel toekomstige academische bestuurders op te leiden.</description>
+    </item>
+    
+    <item>
+      <title>Werving</title>
+      <link>https://shklinkenberg.github.io/daa_site/public/intro/werving/</link>
+      <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
+      
+      <guid>https://shklinkenberg.github.io/daa_site/public/intro/werving/</guid>
+      <description>Waarom De Amsterdamse Academie Waarom de medezeggenschapsvereniging De Amsterdamse Academie? Bij de ondernemingsraadsverkiezingen van 2015 waren er 164 mensen die zich verkiesbaar hadden gesteld voor 89 zetels. Er waren vier verschillende lijsten, FNV universiteiten, VAWO, de Vrije Lijsten en Rethink. De meerderheid van de medezeggenschap binnen de UvA is georganiseerd vanuit de klassieke vakbonden, maar er is ook een grote groep mensen die zich niet aangesproken voelt door een vakbond, maar zich wel wil inzetten voor medezeggenschap binnen de UvA.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://shklinkenberg.github.io/daa_site/public/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://shklinkenberg.github.io/daa_site/public/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
