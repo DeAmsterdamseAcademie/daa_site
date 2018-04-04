@@ -111,7 +111,7 @@ publishDir   = "docs"
     [[params.work.row]]
       img = "work_4.jpg"
       alt = "Image4"
-      title = "FGW"
+      title = "FGw"
       var   = "fgw"
       subtitle = "Speerpunten"
 
