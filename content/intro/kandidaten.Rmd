@@ -10,6 +10,8 @@ subsection : kandidaten
 
 De volgende kandidaten heben zich namens De Amsterdamse Academie verkiesbaar gesteld.
 
+<!-- Button stem reminder -->
+
 <div style="width:100%; text-align: center">
 <a style="margin:10px;" href="Stemmen_op_DAA.ics" class="btn btn-primary"><i class="icon-calendar"></i> Stem DAA reminder</a> 
 </div>
