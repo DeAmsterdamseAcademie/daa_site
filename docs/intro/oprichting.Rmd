@@ -14,4 +14,6 @@ De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goe
 
 De Amsterdamse Academie is de eerste medezeggenschapsvereniging in Nederland en is opgericht op 24 oktober 2017 door wetenschappelijk medewerkers die meer zeggenschap willen over het onderwijs en onderzoek in hun eigen werkomgeving.
 
+<div style="width:100%; text-align: center">
 <a style="margin:10px;" href="../../statuten_DAA.PDF" class="btn btn-primary"><i class="icon-doc"></i> Statuten</a>
+</div>
