@@ -91,30 +91,35 @@ publishDir   = "docs"
       img = "work_1.jpg"
       alt = "Image2"
       title = "ACTA"
+      var   = "acta"
       subtitle = "Speerpunten"
 
     [[params.work.row]]
       img = "work_2.jpg"
       alt = "Image2"
       title = "FNWI"
+      var   = "fnwi"
       subtitle = "Speerpunten"
 
     [[params.work.row]]
       img = "work_3.jpg"
       alt = ""
       title = "FMG"
+      var   = "fmg"
       subtitle = "Speerpunten"
 
     [[params.work.row]]
       img = "work_4.jpg"
       alt = "Image4"
       title = "FGW"
+      var   = "fgw"
       subtitle = "Speerpunten"
 
     [[params.work.row]]
       img = "work_5.jpg"
       alt = "Image5"
       title = "GDE"
+      var   = "gde"
       subtitle = "Speerpunten"
 
   # Testimonials section
