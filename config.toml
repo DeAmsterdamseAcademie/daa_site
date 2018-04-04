@@ -118,8 +118,8 @@ publishDir   = "docs"
     [[params.work.row]]
       img = "work_5.jpg"
       alt = "Image5"
-      title = "GDE"
-      var   = "gde"
+      title = "GOR"
+      var   = "gor"
       subtitle = "Speerpunten"
 
   # Testimonials section
