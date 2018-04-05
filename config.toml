@@ -43,7 +43,7 @@ publishDir   = "docs"
   # Hero section
   [params.hero]
     title    = "De Amsterdamse Academie"
-    subtitle = 'Medezeggenschapsvereniging aan de Universiteit van Amsterdam'
+    subtitle = 'medezeggenschapsvereniging aan de Universiteit van Amsterdam'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -135,7 +135,7 @@ publishDir   = "docs"
       alt = "Gerwin"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Ik heb niet zo veel met de vakbonden, maar wil me wel graag verenigen in het streven naar een gezonde universiteit met een constrictief kritische medenzeggenschap.&rdquo;"
+      quote = "&ldquo;Ik heb niet zo veel met de vakbonden, maar wil me wel graag verenigen in het streven naar een gezonde universiteit met een constructief kritische medezeggenschap.&rdquo;"
       person = 'Sharon Klinkenberg <a href="https://www.linkedin.com/in/sharonklinkenberg/" target="_blank"><i class="icon-linkedin"></i></a><span class="subtext">Kandidaat FMG</span>'
       img = "sharon.jpg"
       alt = "Sharon"
