@@ -11,7 +11,7 @@ publishDir   = "docs"
   custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author      = ""
+  author      = "Klinkenberg"
   description = ""
   email       = "info@deamsterdamseacademie.nl"
 
