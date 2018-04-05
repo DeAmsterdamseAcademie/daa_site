@@ -87,33 +87,33 @@ publishDir   = "docs"
     description = "De Amsterdamse Academie is een nieuw opgerichte medezeggenschapsvereniging die op meerdere faculteiten meedoet aan de Ondernemingsraad verkiezingen. Wij staan voor een constructieve en kritische vorm van medezeggenschap, waarbij het welzijn van medewerkers en studenten voorop staat. Wij staan voor een universiteit die een inspirerend, dynamisch, academisch werkklimaat garandeert waarbinnen kwalitatief hoog academisch onderwijs en onderzoek worden gerealiseerd. Wij hechten aan een goede balans tussen 1e, 2e en 3e geldstroom activiteiten en pleiten voor een beargumenteerde afweging van onderwijs- en onderzoeksbelangen."
     footertext = ''
 
-    [[params.work.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "ACTA"
-      var   = "acta"
-      subtitle = "Speerpunten"
-
-    [[params.work.row]]
+   [[params.work.row]]
       img = "work_2.jpg"
       alt = "Image2"
       title = "FNWI"
       var   = "fnwi"
-      subtitle = "Speerpunten"
+      subtitle = "Lees hier de facultaire speerpunten"
 
     [[params.work.row]]
       img = "work_3.jpg"
       alt = ""
       title = "FMG"
       var   = "fmg"
-      subtitle = "Speerpunten"
+      subtitle = "Lees hier de facultaire speerpunten"
 
     [[params.work.row]]
       img = "work_4.jpg"
       alt = "Image4"
       title = "FGw"
       var   = "fgw"
-      subtitle = "Speerpunten"
+      subtitle = "Lees hier de facultaire speerpunten"
+      
+    [[params.work.row]]
+      img = "work_1.jpg"
+      alt = "Image2"
+      title = "ACTA"
+      var   = "acta"
+      subtitle = "Speerpunten"      
 
     [[params.work.row]]
       img = "work_5.jpg"
