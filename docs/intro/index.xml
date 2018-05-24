@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intros on De Amsterdamse Academie</title>
-    <link>https://shklinkenberg.github.io/daa_site/public/intro/</link>
+    <link>https://shklinkenberg.github.io/daa_site/docs/intro/</link>
     <description>Recent content in Intros on De Amsterdamse Academie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 May 2016 12:12:12 -0500</lastBuildDate>
     
-	<atom:link href="https://shklinkenberg.github.io/daa_site/public/intro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shklinkenberg.github.io/daa_site/docs/intro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kandidaten</title>
-      <link>https://shklinkenberg.github.io/daa_site/public/intro/kandidaten/</link>
+      <link>https://shklinkenberg.github.io/daa_site/docs/intro/kandidaten/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/daa_site/public/intro/kandidaten/</guid>
+      <guid>https://shklinkenberg.github.io/daa_site/docs/intro/kandidaten/</guid>
       <description>Kandidaten De volgende kandidaten heben zich namens De Amsterdamse Academie verkiesbaar gesteld.
  Stem DAA reminder
   .grid-container { display: flex; flex-wrap: wrap; } .grid-item { width: 350px; margin: 20px; font-size: 30px; text-align: left; }  Bestuursstaf en Diensten  Irene Kraal   FNWI  Isabel Smallegange Rudy Wijnands Leendert Hamoen Garry Corthals Robert Spreeuw Patrick Decowski Theo Nieuwenhuizen   FMG  Robert Zwitser Sharon Klinkenberg   FGw  Gerwin van der Pol Janneke Schoo Fouad Laroui Enno Maessen Jonneke Bekkenkamp</description>
@@ -24,20 +24,20 @@
     
     <item>
       <title>Oprichting</title>
-      <link>https://shklinkenberg.github.io/daa_site/public/intro/oprichting/</link>
+      <link>https://shklinkenberg.github.io/daa_site/docs/intro/oprichting/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/daa_site/public/intro/oprichting/</guid>
+      <guid>https://shklinkenberg.github.io/daa_site/docs/intro/oprichting/</guid>
       <description>Medezeggenschapsvereniging De Amsterdamse Academie De vereniging ‘De Amsterdamse Academie’ wil actief deelnemen aan ondernemingsraden van de UvA op een kritische en constructieve wijze. Zij wil hiermee een alternatief bieden voor de verkiezingslijsten die ontstaan zijn naar aanleiding van de Maagdenhuisbezetting van 2015 en de traditionele vakbondslijsten.
 De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goede bestuurders te vinden op elk niveau. De Amsterdamse Academie stelt zich daarom ook ten doel toekomstige academische bestuurders op te leiden.</description>
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>https://shklinkenberg.github.io/daa_site/public/intro/privacy/</link>
+      <link>https://shklinkenberg.github.io/daa_site/docs/intro/privacy/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/daa_site/public/intro/privacy/</guid>
+      <guid>https://shklinkenberg.github.io/daa_site/docs/intro/privacy/</guid>
       <description>Privacy verklaring De Amsterdamse Academie De Amsterdamse Academie, gevestigd aan Gustav Mahlerlaan 3004 – 11n69 1081 LA Amsterdam, is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring.
 Contactgegevens:
 http://www.deamsterdamseacademie.nl Gustav Mahlerlaan 3004 - 11n69 1081 LA Amsterdam
@@ -46,10 +46,10 @@ Persoonsgegevens die wij verwerken De Amsterdamse Academie verwerkt uw persoonsg
     
     <item>
       <title>Werving</title>
-      <link>https://shklinkenberg.github.io/daa_site/public/intro/werving/</link>
+      <link>https://shklinkenberg.github.io/daa_site/docs/intro/werving/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/daa_site/public/intro/werving/</guid>
+      <guid>https://shklinkenberg.github.io/daa_site/docs/intro/werving/</guid>
       <description>Waarom De Amsterdamse Academie Waarom de medezeggenschapsvereniging De Amsterdamse Academie? Bij de ondernemingsraadsverkiezingen van 2015 waren er 164 mensen die zich verkiesbaar hadden gesteld voor 89 zetels. Er waren vier verschillende lijsten, FNV universiteiten, VAWO, de Vrije Lijsten en Rethink. De meerderheid van de medezeggenschap binnen de UvA is georganiseerd vanuit de klassieke vakbonden, maar er is ook een grote groep mensen die zich niet aangesproken voelt door een vakbond, maar zich wel wil inzetten voor medezeggenschap binnen de UvA.</description>
     </item>
     
