@@ -5,6 +5,7 @@ title        = "De Amsterdamse Academie"
 languageCode = "en-us"
 theme        = "hugo-elate-theme"
 publishDir   = "docs"
+ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   
