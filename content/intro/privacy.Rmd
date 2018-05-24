@@ -8,12 +8,12 @@ subsection : privacy
 
 # Privacy verklaring
 
-De Amsterdamse Academie De Amsterdamse Academie, gevestigd aan Gustav Mahlerlaan 3004 – 11n69 1081 LA Amsterdam, is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring.
+De Amsterdamse Academie, gevestigd aan Gustav Mahlerlaan 3004 – 11n69 1081 LA Amsterdam, is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring.
 
 Contactgegevens:
 
-http://www.deamsterdamseacademie.nl 
-Gustav Mahlerlaan 3004 - 11n69 1081 LA Amsterdam
+* http://www.deamsterdamseacademie.nl 
+* Gustav Mahlerlaan 3004 - 11n69 1081 LA Amsterdam
 
 ## Persoonsgegevens die wij verwerken
 
@@ -54,9 +54,9 @@ De Amsterdamse Academie bewaart uw persoonsgegevens niet langer dan strikt nodig
 
 Uitleg bovenstaande redenen:
 
-1. Toestemming: De betrokkene heeft toestemmingen gegeven voor de verwerking van zijn persoonsgegevens voor een of meer specifieke doeleinden.
-2. Overeenkomst: De verwerking is noodzakelijk voor de uitvoering van een overeenkomst waarbij de betrokkene partij is, of om op verzoek van de betrokkene vóór de sluiting van een overeenkomst maatregelen te nemen.
-6. Gerechtvaardigd belang: De verwerking is noodzakelijk voor de behartiging van de gerechtvaardigde belangen van de verwerkingsverantwoordelijke of van een derde, behalve wanneer de belangen of de grondrechten en de fundamentele vrijheden van de betrokkenen die tot bescherming van persoonsgegevens nopen, zwaarder wegen dan die belangen, met name wanneer de betrokkene een kind is.  
+1: Toestemming: De betrokkene heeft toestemmingen gegeven voor de verwerking van zijn persoonsgegevens voor een of meer specifieke doeleinden.
+2: Overeenkomst: De verwerking is noodzakelijk voor de uitvoering van een overeenkomst waarbij de betrokkene partij is, of om op verzoek van de betrokkene vóór de sluiting van een overeenkomst maatregelen te nemen.
+6: Gerechtvaardigd belang: De verwerking is noodzakelijk voor de behartiging van de gerechtvaardigde belangen van de verwerkingsverantwoordelijke of van een derde, behalve wanneer de belangen of de grondrechten en de fundamentele vrijheden van de betrokkenen die tot bescherming van persoonsgegevens nopen, zwaarder wegen dan die belangen, met name wanneer de betrokkene een kind is.  
 
 ## Delen van persoonsgegevens met derden
 
