@@ -213,9 +213,9 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       img = "robert.jpg"
       alt = "Person3"
       social = [
-        ["icon-twitter", "https://twitter.com/RobertZwitser"],
-        ["icon-facebook", "#"],
-        ["https://simpleicons.org/icons/linkedin.svg", "#"]
+        ["icon-home", "http://www.uva.nl/profiel/z/w/r.j.zwitser/r.j.zwitser.html"],
+          ["icon-twitter", "https://twitter.com/RobertZwitser"],
+        ["icon-linkedin", "https://nl.linkedin.com/in/robert-zwitser-63b15121"]
       ]
       
       [[params.about.item]]
