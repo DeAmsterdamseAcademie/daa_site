@@ -215,7 +215,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       social = [
         ["icon-twitter", "https://twitter.com/RobertZwitser"],
         ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["#0077B5", "#"]
       ]
       
       [[params.about.item]]
