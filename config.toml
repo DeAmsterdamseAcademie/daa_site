@@ -68,7 +68,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [[params.intro.item]]
     title = "OR leden"
-    description = "Overzicht van alle vertegenwoordigers van De Amsterdamse Academie in de ondernemingsraden van de UvA."
+    description = "Overzicht van alle DAA-vertegenwoordigers in de ondernemingsraden van de UvA."
     url         = "intro/orleden/index.html"
     button      = "OR leden"
     icon        = "icon-people"
