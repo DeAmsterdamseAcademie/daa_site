@@ -6,7 +6,7 @@ weight     : 3
 subsection : orleden
 ---
 
-# OR vertegenwoordiging
+# Overzicht DAA-leden in de ondernemingsraden
 
 Deze collega's zijn namens De Amsterdamse Academie vertegenwoordigd in de ondernemingsraden van de UvA. De namen die <a style='text-decoration:underline'> onderstreept</a> zijn, zijn ook afgevaardigd naar de Centrale Ondernemingsraad (COR). 
 
