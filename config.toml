@@ -47,7 +47,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     subtitle = 'medezeggenschapsvereniging aan de Universiteit van Amsterdam'
  
   # Intro section
-  # Available icons: http://simplelineicons.com/
+  # Available icons: http://simpleicons.org/
   [params.intro]
 
   [[params.intro.item]]
