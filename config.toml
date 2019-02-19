@@ -189,9 +189,8 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       img = "gerwin.jpg"
       alt = "Person1"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-home", "http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html"],
+        ["icon-linkedin", "https://www.linkedin.com/in/gerwinvanderpol/?originalSubdomain=nl"]
       ]
 
     [[params.about.item]]
@@ -201,9 +200,8 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       img = "annemie.jpg"
       alt = "Person3"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-home", "http://www.uva.nl/profiel/p/l/a.ploeger/a.ploeger.html"],
+        ["icon-linkedin", "https://www.linkedin.com/in/annemieploeger/"]
       ]   
       
         [[params.about.item]]
@@ -225,9 +223,8 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       img = "cees.jpg"
       alt = "Person2"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
+        ["icon-home", "http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html"],
+        ["icon-linkedin", "https://www.linkedin.com/in/cees-kleverlaan-a404084/?originalSubdomain=nl"]
       ]
     
           [[params.about.item]]
@@ -237,9 +234,8 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       img = "han.jpg"
       alt = "Person3"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-home", "http://www.uva.nl/profiel/m/a/h.l.j.vandermaas/h.l.j.vandermaas.html"],
+        ["icon-linkedin", "https://www.linkedin.com/in/han-l-j-van-der-maas-966b7111/?originalSubdomain=nl"]
       ]    
       
   
