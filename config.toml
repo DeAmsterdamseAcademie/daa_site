@@ -290,7 +290,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     title       = "Laat van je horen"
     description = "Heb je vragen opmerkingen of suggesties, laat het ons dan gerust weten."
     
-    # Available icons: http://simplelineicons.com/
+    # Available icons: http://simplelineicons.org/
     details = [
         ["icon-home", "Gustav Mahlerlaan 3004 – 11n69<br>1081 LA Amsterdam"],
         # ["icon-phone", "(123) 465-6789"],
