@@ -195,8 +195,32 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       ]
 
     [[params.about.item]]
-      name = "Cees Kleverlaan"
+      name = "Annemie Ploeger"
       position = "secretaris"
+      description = ""
+      img = "annemie.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]   
+      
+        [[params.about.item]]
+      name = "Robert Zwitser"
+      position = "penningmeester"
+      description = ""
+      img = "robert.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-twitter", "#"],
+        ["icon-facebook", "#"],
+        ["icon-dribbble", "#"]
+      ]
+      
+      [[params.about.item]]
+      name = "Cees Kleverlaan"
+      position = "algemeen bestuurslid"
       description = ""
       img = "cees.jpg"
       alt = "Person2"
@@ -205,31 +229,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         ["icon-facebook", "#"],
         ["icon-github", "#"]
       ]
-
-    [[params.about.item]]
-      name = "Isabel Smallegange"
-      position = "penningmeester"
-      description = ""
-      img = "isabel.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]
-      
-          [[params.about.item]]
-      name = "Annemie Ploeger"
-      position = "bestuurslid"
-      description = ""
-      img = "annemie.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]    
-      
+    
           [[params.about.item]]
       name = "Han van der Maas"
       position = "bestuurslid"
