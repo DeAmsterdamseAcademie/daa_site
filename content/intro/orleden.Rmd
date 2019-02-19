@@ -6,15 +6,9 @@ weight     : 3
 subsection : orleden
 ---
 
-# OR vertegenwoordiging
+# Overzicht DAA-leden in de ondernemingsraden
 
-De volgende kandidaten heben zich namens De Amsterdamse Academie verkiesbaar gesteld.
-
-<!-- Button stem reminder -->
-
-<div style="width:100%; text-align: center">
-<a style="margin:10px;" href="Stemmen_op_DAA.ics" class="btn btn-primary"><i class="icon-calendar"></i> Stem DAA reminder</a> 
-</div>
+De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd in de ondernemingsraden van de UvA. De namen die <u>onderstreept</u> zijn, zijn ook afgevaardigd naar de Centrale Ondernemingsraad (COR). 
 
 <style>
 .grid-container {
@@ -35,47 +29,47 @@ De volgende kandidaten heben zich namens De Amsterdamse Academie verkiesbaar ges
   
 ## Bestuursstaf en Diensten
 
-*  Irene Kraal
+* <a href="http://www.uva.nl/profiel/k/r/i.kraal/i.kraal.html"><u>Irene Kraal</u>
   
   </div>
   <div class="grid-item">
   
 ## FNWI
 
-* Isabel Smallegange
-* Rudy Wijnands
-* Leendert Hamoen
-* Garry Corthals
-* Robert Spreeuw
-* Patrick Decowski
-* Theo Nieuwenhuizen
+* <a href="http://www.uva.nl/profiel/s/m/i.smallegange/i.smallegange.html">Isabel Smallegange
+* <a href="http://www.uva.nl/profiel/w/i/r.a.d.wijnands/r.a.d.wijnands.html">Rudy Wijnands
+* <a href="http://www.uva.nl/profiel/h/a/l.w.hamoen/l.w.hamoen.html">Leendert Hamoen
+* <a href="http://www.uva.nl/profiel/c/o/g.l.corthals/g.l.corthals.html">Garry Corthals
+* <a href="http://www.uva.nl/profiel/s/p/r.j.c.spreeuw/r.j.c.spreeuw.html">Robert Spreeuw
+* <a href="http://www.uva.nl/profiel/d/e/m.p.decowski/m.p.decowski.html">Patrick Decowski
+* <a href="http://www.uva.nl/profiel/n/i/t.m.nieuwenhuizen/t.m.nieuwenhuizen.html">Theo Nieuwenhuizen
   
   </div>
   <div class="grid-item">
   
 ## FMG 
 
-* Robert Zwitser
-* Sharon Klinkenberg
+* <a href="http://www.uva.nl/profiel/z/w/r.j.zwitser/r.j.zwitser.html">Robert Zwitser
+* <a href="http://www.uva.nl/profiel/k/l/s.klinkenberg/s.klinkenberg.html">Sharon Klinkenberg</a>
 
   </div>  
   <div class="grid-item">
   
 ## FGw
 
-* Gerwin van der Pol
-* Janneke Schoo
-* Fouad Laroui
-* Enno Maessen
-* Jonneke Bekkenkamp
+* <a href="http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html"><u>Gerwin van der Pol</u>
+* <a href="http://www.uva.nl/profiel/s/c/j.schoo/j.schoo.html">Janneke Schoo
+* <a href="http://www.uva.nl/profiel/l/a/f.laroui/f.laroui.html">Fouad Laroui
+* <a href="http://www.uva.nl/profiel/m/a/j.m.a.h.maessen/j.m.a.h.maessen.html">Enno Maessen
+* <a href="http://www.uva.nl/profiel/b/e/j.j.bekkenkamp/j.j.bekkenkamp.html"><u>Jonneke Bekkenkamp</u>
   
     </div>
   <div class="grid-item">
   
 ## ACTA
 
-* Cees Kleverlaan
-* Marian Sluijs
+* <a href="http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html"><u>Cees Kleverlaan</u>
+* <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html"><u>Marian Sluijs</u>
   
   </div>
 </div>
