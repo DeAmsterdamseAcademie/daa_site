@@ -85,7 +85,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.work]
     enable = true
     title = "Faculteiten"
-    description = "De Amsterdamse Academie is een nieuw opgerichte medezeggenschapsvereniging die op meerdere faculteiten meedoet aan de Ondernemingsraad verkiezingen. Wij staan voor een constructieve en kritische vorm van medezeggenschap, waarbij het welzijn van medewerkers en studenten voorop staat. Wij staan voor een universiteit die een inspirerend, dynamisch, academisch werkklimaat garandeert waarbinnen kwalitatief hoog academisch onderwijs en onderzoek worden gerealiseerd. Wij hechten aan een goede balans tussen 1e, 2e en 3e geldstroom activiteiten en pleiten voor een beargumenteerde afweging van onderwijs- en onderzoeksbelangen."
+    description = "De Amsterdamse Academie is een nieuw opgerichte medezeggenschapsvereniging die op meerdere faculteiten meedoet aan de Ondernemingsraad verkiezingen. Wij staan voor een constructieve en kritische vorm van medezeggenschap, waarbij het welzijn van medewerkers en studenten voorop staat. Wij staan voor een universiteit die een inspirerend, dynamisch, academisch werkklimaat garandeert waarbinnen kwalitatief hoogstaand academisch onderwijs en onderzoek worden gerealiseerd. Wij hechten aan een goede balans tussen 1e, 2e en 3e geldstroom activiteiten en pleiten voor een beargumenteerde afweging van onderwijs- en onderzoeksbelangen."
     footertext = ''
 
    [[params.work.row]]
@@ -154,7 +154,8 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.services]
     enable = true
     title = "Visie"
-    description = "De vereniging ‘de Amsterdamse Academie’ wil vertegenwoordigd worden in ondernemingsraden van de UvA vanuit een kritisch constructieve visie. Zij wil hiermee een alternatief bieden voor de lijsten die ontstaan zijn naar aanleiding van de Maagdenhuisbezetting van 2015 en de traditionele vakbondslijsten. In 2018 zullen nieuwe verkiezingen plaatsvinden. De Amsterdamse Academie wil in alle faculteiten aan deze verkiezingen deelnemen."
+  #  description = "De vereniging ‘de Amsterdamse Academie’ wil vertegenwoordigd worden in ondernemingsraden van de UvA vanuit een kritisch constructieve visie. Zij wil hiermee een alternatief bieden voor de lijsten die ontstaan zijn naar aanleiding van de Maagdenhuisbezetting van 2015 en de traditionele vakbondslijsten. In 2018 zullen nieuwe verkiezingen plaatsvinden. De Amsterdamse Academie wil in alle faculteiten aan deze verkiezingen deelnemen."
+    description = "‘De Amsterdamse Academie’ is een medezeggenschapsvereniging voor alle medewerkers van de UvA. Vanuit een kritisch constructieve visie willen wij via de ondernemingsraden een positieve bijdrage leveren aan onze universiteit. In een gezonde universiteit werken bestuurders en medewerkers samen aan hetzelfde doel. Wij zien de bestuurders dan ook niet als onze tegenstanders, maar als collega's met een bepaalde verantwoordelijkheid. Bij de OR-verkiezingen van 2018 zijn er <a href='https://www.folia.nl/actueel/120935/goede-score-nieuwkomer-de-amsterdamse-academie-bij-or-verkiezingen' style='color:pink; text-decoration:underline'> 17 DAA-leden verspreid over vijf ondernemingsraden gekozen</a>. Vijf hiervan zijn ook vertegenwoordigd in de Centrale Ondernemingsraad. Na de volgende verkiezingen hopen we in alle ondernemingsraden vertegenwoordigd te zijn."
 
     [[params.services.item]]
       title = "Onderwijs &amp; Onderzoek"
