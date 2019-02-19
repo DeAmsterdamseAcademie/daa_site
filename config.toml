@@ -213,7 +213,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       img = "robert.jpg"
       alt = "Person3"
       social = [
-        ["icon-twitter", "#"],
+        ["icon-twitter", "https://twitter.com/RobertZwitser"],
         ["icon-facebook", "#"],
         ["icon-dribbble", "#"]
       ]
@@ -232,7 +232,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     
           [[params.about.item]]
       name = "Han van der Maas"
-      position = "bestuurslid"
+      position = "algemeen bestuurslid"
       description = ""
       img = "han.jpg"
       alt = "Person3"
