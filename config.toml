@@ -67,10 +67,10 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     img         = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Verkiezing"
-    description = "Van maandag 16 tot en met vrijdag 20 april kan er worden gestemd op de DAA kandidaten."
-    url         = "intro/kandidaten/index.html"
-    button      = "Kandidaten"
+    title = "OR leden"
+    description = "Bekijk alle OR vertegenwoordigers van De Amsterdamse Academie."
+    url         = "intro/orleden/index.html"
+    button      = "OR leden"
     icon        = "icon-people"
     img         = "img_10.jpg"
 
@@ -290,7 +290,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     title       = "Laat van je horen"
     description = "Heb je vragen opmerkingen of suggesties, laat het ons dan gerust weten."
     
-    # Available icons: http://simplelineicons.com/
+    # Available icons: http://simplelineicons.org/
     details = [
         ["icon-home", "Gustav Mahlerlaan 3004 – 11n69<br>1081 LA Amsterdam"],
         # ["icon-phone", "(123) 465-6789"],
