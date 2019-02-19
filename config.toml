@@ -47,7 +47,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     subtitle = 'medezeggenschapsvereniging aan de Universiteit van Amsterdam'
  
   # Intro section
-  # Available icons: http://simplelineicons.com/
+  # Available icons: http://simpleicons.org/
   [params.intro]
 
   [[params.intro.item]]
@@ -68,7 +68,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [[params.intro.item]]
     title = "OR leden"
-    description = "Bekijk alle OR vertegenwoordigers van De Amsterdamse Academie."
+    description = "Overzicht van alle DAA-vertegenwoordigers in de ondernemingsraden van de UvA."
     url         = "intro/orleden/index.html"
     button      = "OR leden"
     icon        = "icon-people"
@@ -189,57 +189,53 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       img = "gerwin.jpg"
       alt = "Person1"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-home", "http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html"],
+        ["icon-linkedin", "https://www.linkedin.com/in/gerwinvanderpol/?originalSubdomain=nl"]
       ]
 
     [[params.about.item]]
-      name = "Cees Kleverlaan"
-      position = "secretaris"
-      description = ""
-      img = "cees.jpg"
-      alt = "Person2"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
-      ]
-
-    [[params.about.item]]
-      name = "Isabel Smallegange"
-      position = "penningmeester"
-      description = ""
-      img = "isabel.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]
-      
-          [[params.about.item]]
       name = "Annemie Ploeger"
-      position = "bestuurslid"
+      position = "secretaris"
       description = ""
       img = "annemie.jpg"
       alt = "Person3"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]    
+        ["icon-home", "http://www.uva.nl/profiel/p/l/a.ploeger/a.ploeger.html"],
+        ["icon-linkedin", "https://www.linkedin.com/in/annemieploeger/"]
+      ]   
       
+        [[params.about.item]]
+      name = "Robert Zwitser"
+      position = "penningmeester"
+      description = ""
+      img = "robert.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-home", "http://www.uva.nl/profiel/z/w/r.j.zwitser/r.j.zwitser.html"],
+          ["icon-twitter", "https://twitter.com/RobertZwitser"],
+        ["icon-linkedin", "https://nl.linkedin.com/in/robert-zwitser-63b15121"]
+      ]
+      
+      [[params.about.item]]
+      name = "Cees Kleverlaan"
+      position = "algemeen bestuurslid"
+      description = ""
+      img = "cees.jpg"
+      alt = "Person2"
+      social = [
+        ["icon-home", "http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html"],
+        ["icon-linkedin", "https://www.linkedin.com/in/cees-kleverlaan-a404084/?originalSubdomain=nl"]
+      ]
+    
           [[params.about.item]]
       name = "Han van der Maas"
-      position = "bestuurslid"
+      position = "algemeen bestuurslid"
       description = ""
       img = "han.jpg"
       alt = "Person3"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-home", "http://www.uva.nl/profiel/m/a/h.l.j.vandermaas/h.l.j.vandermaas.html"],
+        ["icon-linkedin", "https://www.linkedin.com/in/han-l-j-van-der-maas-966b7111/?originalSubdomain=nl"]
       ]    
       
   
@@ -309,7 +305,5 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     enable = true
     copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
     links = [
-        ["icon-twitter", "#twitter"],
-        ["icon-facebook", "https://www.facebook.com/DeAmsterdamseAcademie/"],
-        ["icon-youtube", "#youtube"]
+        ["icon-twitter", "https://twitter.com/daa_uva"]
       ]
