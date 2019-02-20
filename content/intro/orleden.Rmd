@@ -8,7 +8,7 @@ subsection : orleden
 
 # Overzicht DAA-leden in de ondernemingsraden
 
-De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd in de ondernemingsraden van de UvA. De namen die <u>onderstreept</u> zijn, zijn ook afgevaardigd naar de Centrale Ondernemingsraad (COR). 
+De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd in de ondernemingsraden van de UvA. 
 
 <style>
 .grid-container {
@@ -29,7 +29,7 @@ De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd i
   
 ## OR - Bestuursstaf en centrale eenheden (GOR)
 
-* <a href="http://www.uva.nl/profiel/k/r/i.kraal/i.kraal.html"><u>Irene Kraal</u>
+* <a href="http://www.uva.nl/profiel/k/r/i.kraal/i.kraal.html">Irene Kraal
   
   </div>
   <div class="grid-item">
@@ -57,30 +57,30 @@ De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd i
   
 ## OR - FGw
 
-* <a href="http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html"><u>Gerwin van der Pol</u>
+* <a href="http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html">Gerwin van der Pol
 * <a href="http://www.uva.nl/profiel/s/c/j.schoo/j.schoo.html">Janneke Schoo
 * <a href="http://www.uva.nl/profiel/l/a/f.laroui/f.laroui.html">Fouad Laroui
 * <a href="http://www.uva.nl/profiel/m/a/j.m.a.h.maessen/j.m.a.h.maessen.html">Enno Maessen
-* <a href="http://www.uva.nl/profiel/b/e/j.j.bekkenkamp/j.j.bekkenkamp.html"><u>Jonneke Bekkenkamp</u>
+* <a href="http://www.uva.nl/profiel/b/e/j.j.bekkenkamp/j.j.bekkenkamp.html">Jonneke Bekkenkamp
   
     </div>
   <div class="grid-item">
   
 ## OR - ACTA
 
-* <a href="http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html"><u>Cees Kleverlaan</u>
-* <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html"><u>Marian Sluijs</u>
+* <a href="http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html">Cees Kleverlaan
+* <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html">Marian Sluijs
   
   </div>
 </div>
 
 ## Centrale Ondernemingsraad (COR)
 
-* <a href="http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html"><u>Gerwin van der Pol</u>
-* <a href="http://www.uva.nl/profiel/k/r/i.kraal/i.kraal.html"><u>Irene Kraal</u>
-* <a href="http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html"><u>Cees Kleverlaan</u>
-* <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html"><u>Marian Sluijs</u>
-* <a href="http://www.uva.nl/profiel/b/e/j.j.bekkenkamp/j.j.bekkenkamp.html"><u>Jonneke Bekkenkamp</u>
+* <a href="http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html">Gerwin van der Pol
+* <a href="http://www.uva.nl/profiel/k/r/i.kraal/i.kraal.html">Irene Kraal
+* <a href="http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html">Cees Kleverlaan
+* <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html">Marian Sluijs
+* <a href="http://www.uva.nl/profiel/b/e/j.j.bekkenkamp/j.j.bekkenkamp.html">Jonneke Bekkenkamp
 
   
   </div>
