@@ -82,9 +82,8 @@ De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd i
 * <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html">Marian Sluijs
 * <a href="http://www.uva.nl/profiel/b/e/j.j.bekkenkamp/j.j.bekkenkamp.html">Jonneke Bekkenkamp
 
-  
   </div>
-</div>
+</div class="grid-item">
 
 
 
