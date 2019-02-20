@@ -137,7 +137,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     [[params.testimonials.item]]
       quote = "&ldquo;Ik heb niet zo veel met de vakbonden, maar wil me wel graag verenigen in het streven naar een gezonde universiteit met een constructief kritische medezeggenschap.&rdquo;"
-      person = 'Sharon Klinkenberg <a href="https://www.linkedin.com/in/sharonklinkenberg/" target="_blank"><i class="icon-linkedin"></i></a><span class="subtext">Kandidaat FMG</span>'
+      person = 'Sharon Klinkenberg <span class="subtext">OR-FMG</span>'
       img = "sharon.jpg"
       alt = "Sharon"
 

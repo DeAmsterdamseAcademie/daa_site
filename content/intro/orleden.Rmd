@@ -72,7 +72,7 @@ De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd i
 * <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html">Marian Sluijs
   
   </div>
-</div>
+</div> class="grid-item">
 
 ## Centrale Ondernemingsraad (COR)
 
