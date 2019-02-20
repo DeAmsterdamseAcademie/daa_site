@@ -27,14 +27,14 @@ De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd i
 <div class="grid-container">
   <div class="grid-item">
   
-## Bestuursstaf en Diensten
+## OR - Bestuursstaf en centrale eenheden (GOR)
 
 * <a href="http://www.uva.nl/profiel/k/r/i.kraal/i.kraal.html"><u>Irene Kraal</u>
   
   </div>
   <div class="grid-item">
   
-## FNWI
+## OR - FNWI
 
 * <a href="http://www.uva.nl/profiel/s/m/i.smallegange/i.smallegange.html">Isabel Smallegange
 * <a href="http://www.uva.nl/profiel/w/i/r.a.d.wijnands/r.a.d.wijnands.html">Rudy Wijnands
@@ -47,7 +47,7 @@ De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd i
   </div>
   <div class="grid-item">
   
-## FMG 
+## OR - FMG 
 
 * <a href="http://www.uva.nl/profiel/z/w/r.j.zwitser/r.j.zwitser.html">Robert Zwitser
 * <a href="http://www.uva.nl/profiel/k/l/s.klinkenberg/s.klinkenberg.html">Sharon Klinkenberg</a>
@@ -55,7 +55,7 @@ De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd i
   </div>  
   <div class="grid-item">
   
-## FGw
+## OR - FGw
 
 * <a href="http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html"><u>Gerwin van der Pol</u>
 * <a href="http://www.uva.nl/profiel/s/c/j.schoo/j.schoo.html">Janneke Schoo
@@ -66,10 +66,22 @@ De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd i
     </div>
   <div class="grid-item">
   
-## ACTA
+## OR - ACTA
 
 * <a href="http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html"><u>Cees Kleverlaan</u>
 * <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html"><u>Marian Sluijs</u>
+  
+  </div>
+</div>
+
+## Centrale Ondernemingsraad (COR)
+
+* <a href="http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html"><u>Gerwin van der Pol</u>
+* <a href="http://www.uva.nl/profiel/k/r/i.kraal/i.kraal.html"><u>Irene Kraal</u>
+* <a href="http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html"><u>Cees Kleverlaan</u>
+* <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html"><u>Marian Sluijs</u>
+* <a href="http://www.uva.nl/profiel/b/e/j.j.bekkenkamp/j.j.bekkenkamp.html"><u>Jonneke Bekkenkamp</u>
+
   
   </div>
 </div>
