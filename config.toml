@@ -59,18 +59,18 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     img         = "img_7.jpg"
 
   [[params.intro.item]]
-    title       = "Werving"
-    description = "Word lid van de medezeggenschapsvereniging De Amsterdamse Academie."
+    title       = "Blik op de inhoud"
+    description = "Het moet in de OR meer aandacht zijn voor de inhoud van ons werk: goed onderzoek en onderwijs."
     url         = "intro/werving/index.html"
     button      = "Waarom DAA"
     icon        = "icon-heart"
     img         = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "OR leden"
-    description = "Overzicht van alle DAA-vertegenwoordigers in de ondernemingsraden van de UvA."
+    title = "OR-verkiezingen 2021"
+    description = "In april zijn er voor vier ondernemingsraden verkiezingen. Bekijk hier onze lijsten."
     url         = "intro/orleden/index.html"
-    button      = "OR leden"
+    button      = "Onze kandidaten"
     icon        = "icon-people"
     img         = "img_10.jpg"
 
@@ -131,7 +131,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     [[params.testimonials.item]]
       quote = "&ldquo;We bundelen onze krachten. Bij de vorige verkiezingen bleek het zelf samenstellen van niet-vakbondslijsten erg ingewikkeld. De vereniging DAA heeft de know-how, en aansluiten bij de DAA heeft als voordeel dat je je alleen hoeft te concentreren op de kandidaten en het formuleren van een programma (binnen de kaders van de uitgangspunten van DAA).&rdquo;"
-      person = 'Gerwin van der Pol<span class="subtext">Voorzitter</span>'
+      person = 'Gerwin van der Pol <span class="subtext">Voorzitter</span>'
       img = "gerwin.jpg"
       alt = "Gerwin"
 
