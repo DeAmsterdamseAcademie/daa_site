@@ -1,59 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speerpuntens on De Amsterdamse Academie</title>
-    <link>https://shklinkenberg.github.io/daa_site/docs/speerpunten/</link>
+    <link>/speerpunten/</link>
     <description>Recent content in Speerpuntens on De Amsterdamse Academie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2016 12:12:12 -0500</lastBuildDate>
-    
-	<atom:link href="https://shklinkenberg.github.io/daa_site/docs/speerpunten/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 10 May 2016 12:12:12 -0500</lastBuildDate><atom:link href="/speerpunten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACTA Speerpunten</title>
-      <link>https://shklinkenberg.github.io/daa_site/docs/speerpunten/acta/</link>
+      <link>/speerpunten/acta/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/daa_site/docs/speerpunten/acta/</guid>
+      <guid>/speerpunten/acta/</guid>
       <description> ACTA Speerpunten  </description>
     </item>
     
     <item>
       <title>FGW Speerpunten</title>
-      <link>https://shklinkenberg.github.io/daa_site/docs/speerpunten/fgw/</link>
+      <link>/speerpunten/fgw/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/daa_site/docs/speerpunten/fgw/</guid>
+      <guid>/speerpunten/fgw/</guid>
       <description>FGW Speerpunten Binnen de FGw willen wij de nadruk leggen op de menselijke maat. De papieren werkelijkheid van beleidsdocumenten spoort vaak niet met de ervaring van individuele medewerkers. Onze faculteit staat op alle terreinen onder druk: werkdruk, regeldruk, machtsongelijkheid en demonisering van afwijkende standpunten. Tegelijkertijd is de kracht van onze faculteit de tomeloze energie van medewerkers, collegialiteit en kritische dialoog, geloof in de waarde van de Geesteswetenschappen en openheid naar de samenleving.</description>
     </item>
     
     <item>
       <title>FMG Speerpunten</title>
-      <link>https://shklinkenberg.github.io/daa_site/docs/speerpunten/fmg/</link>
+      <link>/speerpunten/fmg/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/daa_site/docs/speerpunten/fmg/</guid>
+      <guid>/speerpunten/fmg/</guid>
       <description>Eerlijk en transparant allocatiemodel binnen FMG Onlangs is er binnen de UvA een nieuw allocatiemodel vastgesteld. Dit model bepaalt o.a. hoeveel geld er naar elk van de faculteiten gaat. Het is nu aan de FMG om te bepalen hoeveel geld iedere afdeling krijgt. De DAA is voor een eerlijk en transparant allocatiemodel waarbij niet alleen wordt gekeken naar de omvang van de afdelingen, maar ook naar de aard van werkzaamheden (bijv.</description>
     </item>
     
     <item>
       <title>FNWI Speerpunten</title>
-      <link>https://shklinkenberg.github.io/daa_site/docs/speerpunten/fnwi/</link>
+      <link>/speerpunten/fnwi/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/daa_site/docs/speerpunten/fnwi/</guid>
+      <guid>/speerpunten/fnwi/</guid>
       <description>FNWI Speerpunten Binnen de FNWI wil de lijst De Amsterdamse Academie zich inzetten voor sterk bèta onderzoek en onderwijs in Amsterdam. Hierbij is een overkoepelend universiteitsschap binnen Amsterdam in ieders belang. Wij ondersteunen daarom bestaande en nieuwe initiatieven tot samenwerking tussen UvA en VU die bijdragen aan zowel de positie als de kwaliteit van de bètawetenschap in Amsterdam.
 De Amsterdamse Academie vindt het hierbij ook erg belangrijk om goede banden te onderhouden met studenten en hun organisaties om een zelfde constructief-kritische houding te stimuleren.</description>
     </item>
     
     <item>
       <title>GOR Speerpunten</title>
-      <link>https://shklinkenberg.github.io/daa_site/docs/speerpunten/gor/</link>
+      <link>/speerpunten/gor/</link>
       <pubDate>Tue, 10 May 2016 12:12:12 -0500</pubDate>
       
-      <guid>https://shklinkenberg.github.io/daa_site/docs/speerpunten/gor/</guid>
+      <guid>/speerpunten/gor/</guid>
       <description> GOR Speerpunten  </description>
     </item>
     

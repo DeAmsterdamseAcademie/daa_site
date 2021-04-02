@@ -1,119 +1,110 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/speerpunten/acta/</loc>
+    <loc>/speerpunten/acta/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/speerpunten/fgw/</loc>
+    <loc>/speerpunten/fgw/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/speerpunten/fmg/</loc>
+    <loc>/speerpunten/fmg/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/speerpunten/fnwi/</loc>
+    <loc>/speerpunten/fnwi/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/speerpunten/gor/</loc>
+    <loc>/speerpunten/gor/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/intro/kandidaten/</loc>
+    <loc>/intro/kandidaten/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/intro/orleden/</loc>
+    <loc>/intro/oprichting/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/intro/oprichting/</loc>
+    <loc>/intro/orleden/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/intro/privacy/</loc>
+    <loc>/intro/privacy/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/intro/werving/</loc>
+    <loc>/intro/werving/</loc>
     <lastmod>2016-05-10T12:12:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/</loc>
+    <lastmod>2016-05-10T12:12:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/intro/</loc>
+    <lastmod>2016-05-10T12:12:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/speerpunten/</loc>
+    <lastmod>2016-05-10T12:12:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/</loc>
-    <lastmod>2016-05-10T12:12:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/intro/</loc>
-    <lastmod>2016-05-10T12:12:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/tags/plot/</loc>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/post/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/categories/r/</loc>
+    <loc>/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/tags/r-markdown/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/tags/regression/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/speerpunten/</loc>
-    <lastmod>2016-05-10T12:12:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shklinkenberg.github.io/daa_site/docs/tags/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
 </urlset>
