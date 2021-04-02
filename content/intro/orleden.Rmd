@@ -1,14 +1,14 @@
 ---
-title      : "OR leden"
+title      : "Kandidaten 2021"
 author     : "Sharon Klinkenberg"
 date       : 2016-05-10T12:12:12-05:00
 weight     : 3
 subsection : orleden
 ---
 
-# Overzicht DAA-leden in de ondernemingsraden
+# Kandidaten OR-verkiezingen 2021
 
-De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd in de ondernemingsraden van de UvA. 
+In het voorjaar van 2021 vinden bij vier faculteiten OR-verkiezingen plaats. Dit zijn de kandidaten van die zich namens De Amsterdamse Academie verkiesbaar verkiesbaar hebben gesteld:
 
 <style>
 .grid-container {
@@ -27,64 +27,49 @@ De onderstaande collega's zijn namens De Amsterdamse Academie vertegenwoordigd i
 <div class="grid-container">
   <div class="grid-item">
   
-## OR - Bestuursstaf en centrale eenheden (GOR)
-
-* <a href="http://www.uva.nl/profiel/k/r/i.kraal/i.kraal.html">Irene Kraal</a>
   
-  </div>
-  <div class="grid-item">
-  
-## OR - FNWI
+## OR - FNWI (lijst 3)
 
 * <a href="http://www.uva.nl/profiel/s/m/i.smallegange/i.smallegange.html">Isabel Smallegange</a>
-* <a href="http://www.uva.nl/profiel/w/i/r.a.d.wijnands/r.a.d.wijnands.html">Rudy Wijnands</a>
-* <a href="http://www.uva.nl/profiel/h/a/l.w.hamoen/l.w.hamoen.html">Leendert Hamoen</a>
-* <a href="http://www.uva.nl/profiel/c/o/g.l.corthals/g.l.corthals.html">Garry Corthals</a>
 * <a href="http://www.uva.nl/profiel/s/p/r.j.c.spreeuw/r.j.c.spreeuw.html">Robert Spreeuw</a>
-* <a href="http://www.uva.nl/profiel/d/e/m.p.decowski/m.p.decowski.html">Patrick Decowski</a>
-* <a href="http://www.uva.nl/profiel/n/i/t.m.nieuwenhuizen/t.m.nieuwenhuizen.html">Theo Nieuwenhuizen</a>
+* <a href="https://www.uva.nl/profiel/c/o/e.cohendelara/e.cohendelara.html">Emma Cohen de Lara</a> 
+* <a href="http://www.uva.nl/profiel/w/i/r.a.d.wijnands/r.a.d.wijnands.html">Rudy Wijnands</a>
+* <a href="https://www.uva.nl/profiel/s/t/c.c.stolk/c.c.stolk.html">Chris Stolk</a>
+* <a href="https://www.uva.nl/profiel/w/a/w.j.waalewijn/w.j.waalewijn.html">Wouter Waalewijn</a>
+* <a href="http://www.uva.nl/profiel/h/a/l.w.hamoen/l.w.hamoen.html">Leendert Hamoen</a>
   
   </div>
   <div class="grid-item">
   
-## OR - FMG 
+## OR - FMG (lijst 2)
 
-* <a href="http://www.uva.nl/profiel/z/w/r.j.zwitser/r.j.zwitser.html">Robert Zwitser</a>
-* <a href="http://www.uva.nl/profiel/k/l/s.klinkenberg/s.klinkenberg.html">Sharon Klinkenberg</a>
+* <a href="https://www.uva.nl/profiel/p/l/a.ploeger/a.ploeger.html">Annemie Ploeger</a>
+* <a href="https://www.uva.nl/profiel/s/c/t.j.p.vanschijndel/t.j.p.van-schijndel.html">Tessa van Schijndel</a>
+* <a href="https://www.uva.nl/profiel/d/i/k.f.l.dijk/k.f.l.dijk.html">Corine Dijk</a>
+* <a href="https://www.uva.nl/profiel/k/l/s.klinkenberg/s.klinkenberg.html">Sharon Klinkenberg</a>
 
   </div>  
   <div class="grid-item">
   
-## OR - FGw
+## OR - FGw (lijst 1)
 
 * <a href="http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html">Gerwin van der Pol</a>
+* <a href="https://www.uva.nl/profiel/k/l/s.f.klaver/s.f.klaver.html">Sanne Klaver</a>
+* <a href="https://www.uva.nl/profiel/l/u/l.luijnenburg/l.luijnenburg.html">Linde Luijnenburg</a>
+* <a href="https://www.uva.nl/profiel/b/a/p.c.vanbaalen/p.c.van-baalen.html">Christine van Baalen</a>
 * <a href="http://www.uva.nl/profiel/s/c/j.schoo/j.schoo.html">Janneke Schoo</a>
-* <a href="http://www.uva.nl/profiel/l/a/f.laroui/f.laroui.html">Fouad Laroui</a>
-* <a href="http://www.uva.nl/profiel/m/a/j.m.a.h.maessen/j.m.a.h.maessen.html">Enno Maessen</a>
-* <a href="http://www.uva.nl/profiel/b/e/j.j.bekkenkamp/j.j.bekkenkamp.html">Jonneke Bekkenkamp</a>
+* <a href="https://www.uva.nl/profiel/m/a/e.s.martens/e.s.martens.html">Emiel Martens</a>
   
     </div>
   <div class="grid-item">
   
-## OR - ACTA
+## OR - ACTA (lijst 3)
 
 * <a href="http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html">Cees Kleverlaan</a>
-* <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html">Marian Sluijs</a>
+* <a href="https://www.uva.nl/profiel/w/e/a.werner/a.werner.html">Arie Werner</a>
   
   </div>
 <div class="grid-item">
-
-## Centrale Ondernemingsraad (COR)
-
-* <a href="http://www.uva.nl/profiel/b/e/j.j.bekkenkamp/j.j.bekkenkamp.html">Jonneke Bekkenkamp</a>
-* <a href="http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html">Cees Kleverlaan</a>
-* <a href="http://www.uva.nl/profiel/k/r/i.kraal/i.kraal.html">Irene Kraal</a>
-* <a href="http://www.uva.nl/profiel/p/o/g.w.vanderpol/g.w.vanderpol.html">Gerwin van der Pol</a>
-* <a href="http://www.uva.nl/profiel/s/l/m.sluijs/m.sluijs.html">Marian Sluijs</a>
-
-  </div>
-</div class="grid-item">
-
 
 
 
