@@ -52,7 +52,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [[params.intro.item]]
     title = "Oprichting"
-    description = "De Amsterdamse Academie is de eerste medezeggenschapsvereniging in Nederland."
+    description = "De Amsterdamse Academie is de eerste medezeggenschapsvereniging in Nederland. Lees hier over de oprichting."
     url         = "intro/oprichting/index.html"
     button      = "Meer weten"
     icon        = "icon-bulb"
