@@ -6,9 +6,9 @@ weight     : 3
 subsection : kandidaten
 ---
 
-# Kandidaten
+# Kandidaten OR-verkiezingen 2021
 
-De volgende kandidaten heben zich namens De Amsterdamse Academie verkiesbaar gesteld.
+In het voorjaar van 2021 vinden bij vier faculteiten OR-verkiezingen plaats. Dit zijn de kandidaten van die zich namens De Amsterdamse Academie verkiesbaar verkiesbaar hebben gesteld:
 
 <!-- Button stem reminder -->
 
@@ -32,50 +32,47 @@ De volgende kandidaten heben zich namens De Amsterdamse Academie verkiesbaar ges
 
 <div class="grid-container">
   <div class="grid-item">
-  
-## Bestuursstaf en Diensten
 
-*  Irene Kraal
   
-  </div>
-  <div class="grid-item">
-  
-## FNWI
+## FNWI (lijst 3)
 
 * Isabel Smallegange
-* Rudy Wijnands
-* Leendert Hamoen
-* Garry Corthals
 * Robert Spreeuw
-* Patrick Decowski
-* Theo Nieuwenhuizen
+* Emma Cohen de Lara
+* Rudy Wijnands
+* Chris Stolk
+* Wouter Waalewijn
+* Leendert Hamoen
   
   </div>
   <div class="grid-item">
   
-## FMG 
+## FMG (lijst 2)
 
-* Robert Zwitser
+* Annemie Ploeger
+* Tessa van Schijndel
+* Corine Dijk
 * Sharon Klinkenberg
 
   </div>  
   <div class="grid-item">
   
-## FGw
+## FGw (lijst 1)
 
 * Gerwin van der Pol
+* Sanne Klaver
+* Linde Luijnenburg
+* Christine van Baalen
 * Janneke Schoo
-* Fouad Laroui
-* Enno Maessen
-* Jonneke Bekkenkamp
+* Emiel Martens
   
     </div>
   <div class="grid-item">
   
-## ACTA
+## ACTA (lijst 3)
 
 * Cees Kleverlaan
-* Marian Sluijs
+* Arie Werner
   
   </div>
 </div>
