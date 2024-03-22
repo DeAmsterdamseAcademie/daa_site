@@ -67,8 +67,8 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     img         = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "OR-verkiezingen 2021"
-    description = "In april zijn er voor vier UvA-ondernemingsraden verkiezingen. Bekijk hier onze lijsten."
+    title = "OR-verkiezingen 2024"
+    description = "Bekijk hier onze kandidaten lijsten voor de ondernemingsraden van de verschillende faculteiten van de UvA."
     url         = "intro/orleden/index.html"
     button      = "Onze kandidaten"
     icon        = "icon-people"
@@ -83,7 +83,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # Work section
   [params.work]
-    enable = true
+    enable = false
     title = "Faculteiten"
     description = "De Amsterdamse Academie is een in 2017 opgerichte medezeggenschapsvereniging die in meerdere ondernemingsraden van de UvA vertegenwoordigd is. Wij staan voor een constructieve en kritische vorm van medezeggenschap, waarbij het welzijn van medewerkers en studenten voorop staat. Wij staan voor een universiteit die een inspirerend, dynamisch, academisch werkklimaat garandeert waarbinnen kwalitatief hoogstaand academisch onderwijs en onderzoek worden gerealiseerd. Wij hechten aan een goede balans tussen 1e, 2e en 3e geldstroom activiteiten en pleiten voor een beargumenteerde afweging van onderwijs- en onderzoeksbelangen."
     footertext = ''

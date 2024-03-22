@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intros on De Amsterdamse Academie</title>
+    <title>Introes on De Amsterdamse Academie</title>
     <link>/intro/</link>
-    <description>Recent content in Intros on De Amsterdamse Academie</description>
+    <description>Recent content in Introes on De Amsterdamse Academie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 May 2016 12:12:12 -0500</lastBuildDate><atom:link href="/intro/index.xml" rel="self" type="application/rss+xml" />
@@ -14,11 +14,19 @@
       
       <guid>/intro/kandidaten/</guid>
       <description>Kandidaten OR-verkiezingen 2021 In het voorjaar van 2021 vinden bij vier faculteiten OR-verkiezingen plaats. Dit zijn de kandidaten van die zich namens De Amsterdamse Academie verkiesbaar verkiesbaar hebben gesteld:
- Stem DAA reminder
-  .grid-container { display: flex; flex-wrap: wrap; } .grid-item { width: 350px; margin: 20px; font-size: 30px; text-align: left; }  FNWI (lijst 3)  Isabel Smallegange
- Robert Spreeuw
- Emma Cohen de Lara
- Rudy Wijnands</description>
+Stem DAA reminder
+FNWI (lijst 3) Isabel Smallegange
+Robert Spreeuw
+Emma Cohen de Lara
+Rudy Wijnands
+Chris Stolk
+Wouter Waalewijn
+Leendert Hamoen
+FMG (lijst 2) Annemie Ploeger
+Tessa van Schijndel
+Corine Dijk
+Sharon Klinkenberg
+FGw (lijst 1) Gerwin van der Pol</description>
     </item>
     
     <item>
@@ -28,11 +36,18 @@
       
       <guid>/intro/orleden/</guid>
       <description>Kandidaten OR-verkiezingen 2021 In het voorjaar van 2021 vinden bij vier faculteiten OR-verkiezingen plaats. Dit zijn de kandidaten van die zich namens De Amsterdamse Academie verkiesbaar verkiesbaar hebben gesteld:
- .grid-container { display: flex; flex-wrap: wrap; } .grid-item { width: 350px; margin: 20px; font-size: 30px; text-align: left; }  OR - FNWI (lijst 3)  Isabel Smallegange
- Robert Spreeuw
- Emma Cohen de Lara
- Rudy Wijnands
- Chris Stolk</description>
+OR - FNWI (lijst 3) Isabel Smallegange
+Robert Spreeuw
+Emma Cohen de Lara
+Rudy Wijnands
+Chris Stolk
+Wouter Waalewijn
+Leendert Hamoen
+OR - FMG (lijst 2) Annemie Ploeger
+Tessa van Schijndel
+Corine Dijk
+Sharon Klinkenberg
+OR - FGw (lijst 1) Gerwin van der Pol</description>
     </item>
     
     <item>
@@ -53,7 +68,7 @@ De UvA heeft net als vele andere onderwijs- en onderzoeksinstellingen moeite goe
       <guid>/intro/privacy/</guid>
       <description>Privacy verklaring De Amsterdamse Academie, gevestigd aan Gustav Mahlerlaan 3004 – 11n69 1081 LA Amsterdam, is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring.
 Contactgegevens:
- http://www.deamsterdamseacademie.nl Gustav Mahlerlaan 3004 - 11n69 1081 LA Amsterdam  Persoonsgegevens die wij verwerken De Amsterdamse Academie verwerkt uw persoonsgegevens doordat u gebruik maakt van onze diensten en/of omdat u deze zelf aan ons verstrekt. Hieronder vindt u een overzicht van de persoonsgegevens die wij verwerken:</description>
+http://www.deamsterdamseacademie.nl Gustav Mahlerlaan 3004 - 11n69 1081 LA Amsterdam Persoonsgegevens die wij verwerken De Amsterdamse Academie verwerkt uw persoonsgegevens doordat u gebruik maakt van onze diensten en/of omdat u deze zelf aan ons verstrekt. Hieronder vindt u een overzicht van de persoonsgegevens die wij verwerken:</description>
     </item>
     
     <item>
