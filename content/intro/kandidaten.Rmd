@@ -10,6 +10,10 @@ subsection : kandidaten
 
 In het voorjaar van 2024 vinden bij vier faculteiten OR-verkiezingen plaats. Dit zijn de kandidaten die zich namens De Amsterdamse Academie verkiesbaar hebben gesteld:
 
+[FNWI](#fnwi)
+[FMG](#fmg)
+[FGw](#fgw)
+
 <!-- Button stem reminder 
 
 <div style="width:100%; text-align: center">
@@ -34,9 +38,7 @@ In het voorjaar van 2024 vinden bij vier faculteiten OR-verkiezingen plaats. Dit
 <div class="grid-container">
   <div class="grid-item">
 
-[FNWI](#fnwi)
-[FMG](#fmg)
-[FGw](#fgw)
+
   
 ## FNWI {.fnwi}
 
