@@ -141,11 +141,11 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       img = "sharon.jpg"
       alt = "Sharon"
 
-#    [[params.testimonials.item]]
-#      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-#      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-#      img = "person3.jpg"
-#      alt = "Person3"
+    [[params.testimonials.item]]
+      quote = "&ldquo;Met DAA nemen we niet alleen de belangen van de medewerkers aan de UvA in ogenschouw, maar ook het belang van de UvA als belangrijk en vooraanstaand instituut.&rdquo;"
+      person = 'Annemie Ploeger <span class="subtext">OR-FMG</span>'      
+      img = "annemie.jpg"
+      alt = "Person3"
   
 
 
@@ -194,9 +194,30 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         ["icon-linkedin", "https://www.linkedin.com/in/gerwinvanderpol/?originalSubdomain=nl"]
       ]
 
+          [[params.about.item]]
+      name = "Han van der Maas"
+      position = "secretaris"
+      description = ""
+      img = "han.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-home", "http://www.uva.nl/profiel/m/a/h.l.j.vandermaas/h.l.j.vandermaas.html"],
+        ["icon-linkedin", "https://www.linkedin.com/in/han-l-j-van-der-maas-966b7111/?originalSubdomain=nl"]
+      ]   
+      
+        [[params.about.item]]
+      name = "Wouter Waalewijn"
+      position = "penningmeester"
+      description = ""
+      img = "wouter.jpg"
+      alt = "Person3"
+      social = [
+        ["icon-home", "https://www.uva.nl/en/profile/w/a/w.j.waalewijn/w.j.waalewijn.html"]
+      ]
+      
     [[params.about.item]]
       name = "Annemie Ploeger"
-      position = "secretaris"
+      position = "algemeen bestuurslid"
       description = ""
       img = "annemie.jpg"
       alt = "Person3"
@@ -205,39 +226,17 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         ["icon-linkedin", "https://www.linkedin.com/in/annemieploeger/"]
       ]   
       
-        [[params.about.item]]
-      name = "Robert Zwitser"
-      position = "penningmeester"
-      description = ""
-      img = "robert.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-home", "http://www.uva.nl/profiel/z/w/r.j.zwitser/r.j.zwitser.html"],
-          ["icon-twitter", "https://twitter.com/RobertZwitser"],
-        ["icon-linkedin", "https://nl.linkedin.com/in/robert-zwitser-63b15121"]
-      ]
-      
       [[params.about.item]]
-      name = "Cees Kleverlaan"
+      name = "Sandra Diets"
       position = "algemeen bestuurslid"
       description = ""
-      img = "cees.jpg"
+      img = "sandra.jpg"
       alt = "Person2"
       social = [
-        ["icon-home", "http://www.uva.nl/profiel/k/l/c.kleverlaan/c.kleverlaan.html"],
-        ["icon-linkedin", "https://www.linkedin.com/in/cees-kleverlaan-a404084/?originalSubdomain=nl"]
+        ["icon-home", "https://www.uva.nl/profiel/d/i/s.diets/s.diets.html"]
       ]
     
-          [[params.about.item]]
-      name = "Han van der Maas"
-      position = "algemeen bestuurslid"
-      description = ""
-      img = "han.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-home", "http://www.uva.nl/profiel/m/a/h.l.j.vandermaas/h.l.j.vandermaas.html"],
-        ["icon-linkedin", "https://www.linkedin.com/in/han-l-j-van-der-maas-966b7111/?originalSubdomain=nl"]
-      ]    
+ 
       
   
 
