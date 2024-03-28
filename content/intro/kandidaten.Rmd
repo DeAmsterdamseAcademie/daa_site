@@ -5,7 +5,6 @@ date       : 2016-05-10T12:12:12-05:00
 weight     : 3
 subsection : kandidaten
 ---
-
 # Kandidaten OR-verkiezingen 2024
 
 In het voorjaar van 2024 vinden bij vier faculteiten OR-verkiezingen plaats. Dit zijn de kandidaten die zich namens De Amsterdamse Academie verkiesbaar hebben gesteld:
