@@ -15,5 +15,5 @@ Waarom een medezeggenschapsvereniging en niet een vakbond? De vakbonden onderhan
 <!-- Button lid worden -->
 
 <div style="width:100%; text-align: center">
-<a style="margin:10px;" href="https://nlpsych.eu.qualtrics.com/jfe/form/SV_eKkI2TzKu9sF13f" target="_blank" class="btn btn-primary"><i class="icon-pencil"></i> Lid worden</a>
+<a style="margin:10px;" href="https://forms.office.com/e/QtR6xMgW27?origin=lprLink" target="_blank" class="to-animate btn btn-primary"><i class="icon-pencil"></i> Lid worden</a>
 </div>
