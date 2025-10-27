@@ -14,7 +14,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Meta
   author      = "Klinkenberg"
   description = ""
-  email       = "info@deamsterdamseacademie.nl"
+  email       = ""
 
   # Navigation
   [params.navigation]
@@ -290,7 +290,7 @@ ignoreFiles  = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     details = [
         ["icon-home", "Gustav Mahlerlaan 3004 – 11n69<br>1081 LA Amsterdam"],
         # ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "<a href='mailto:info@deamsterdamseacademie.nl'>info@deamsterdamseacademie.nl</a>"],
+        # ["icon-envelope", "<a href='mailto:info@deamsterdamseacademie.nl'>info@deamsterdamseacademie.nl</a>"],
         # ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
       ]
 
